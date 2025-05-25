@@ -1,0 +1,17 @@
+.logo {
+    border-radius: 20px;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.schedule tr:nth-child(5), .schedule tr:nth-child(8), .schedule tr:nth-child(12) {
+  background-color: #eee;
+}
+
+.speaker {
+  max-width: 120px;
+  border-radius: 50%;
+}

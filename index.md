@@ -1,0 +1,102 @@
+# Workshop on Artificial Intelligence for Music: *Where Creativity Meets Computation*
+
+> A NeurIPS 2025 workshop proposal
+
+## Description
+
+This workshop will explore the dynamic intersection of AI and music, a rapidly evolving field where creativity meets computation. Music is one of the most universal and emotionally resonant forms of human expression. Producing, understanding, and processing music presents unique challenges for machine learning due to its creative, expressive, subjective, and interactive nature. The workshop aims to discuss the latest advancements of AI's applications in music, from analysis, creation, retrieval to processing. The workshop will also discuss AI's impacts on the musician community, implications on music education, and challenges of adoption in the music industry. The workshop will feature invited talks, contributed talks, posters, a demo session, and a panel discussion. As the first NeurIPS workshop dedicated to music, we believe that the workshop will reach a wide audience and attract AI researchers, musicians, music producers, media artists, tech enthusiasts, and educators interested in the status and future of AI music.
+
+---
+
+## Call for Papers & Demos
+
+The workshop invites contributions from the community on relevant topics of AI and music, broadly defined. Topic of interests includes, but not limited to:
+
+- Music generation
+- Singing voice synthesis
+- Sound design and soundtrack generation
+- Lyric generation and translation
+- Intelligent music production
+- Music performance modeling
+- Music creative interfaces
+- Robotic musicianship
+- Human-AI music co-creativity
+- Music recommender systems
+- Music information retrieval
+- Optical music recognition
+- Music transcription
+- Computational music theory
+- Music perception and cognition
+- Music education technology
+- Legal and ethical implications of AI music
+- Challenges in commercialization of AI music tools
+- AI's impacts on the musician community
+- AI's implications for future musicians
+
+### Call for Papers
+
+We call for original **4-page papers** (excluding references) on relevant topics of AI and music, broadly defined. We encourage and welcome papers discussing initial concepts, early results, and promising directions. All accepted papers will be presented in the poster and demo session. A small number of papers will be selected for 10-min spotlight presentations. The review process will be **double-blind**.
+
+### Call for Demos
+
+We call for demos of novel AI music tools and artistic work. Each demo submission will be accompanied by a **2-page extended abstract** (excluding references and supplementary materials) in NeurIPS format. *We encourage the authors to submit short video recordings as supplementary materials to support their submission.* The selected demos will each be assigned a poster board in the poster and demo session. The goal of the demo session is to accommodate the various formats that novel AI music innovations can be best presented, and thus we will adopt a **single-blind** review process.
+
+### Important Dates
+
+The following due dates apply to both paper and demo submissions:
+
+- **Paper Submission Deadline: August 22, AoE**
+- Author Notification Date: September 22, AoE
+- Camera-ready Due: November 7, AoE
+
+OpenReview submission portal: TBA
+
+---
+
+## Tentative Schedule
+
+<div class="table-wrapper schedule" markdown="block">
+
+| 8:20  - 8:30  | Welcoming Remarks       |                               |
+| 8:30  - 9:00  | Invited Talk 1          | 20-min talk + 10-min Q&A      |
+| 9:00  - 9:30  | Invited Talk 2          | 20-min talk + 10-min Q&A      |
+| 9:30  - 10:00 | Invited Talk 3          | 20-min talk + 10-min Q&A      |
+| 10:00 - 10:30 | Coffee Break            |                               |
+| 10:30 - 11:00 | Spotlight Presentations | Three 10-min talks            |
+| 11:00 - 12:00 | Poster & Demo Session   | Contributed posters and demos |
+| 12:00 - 1:30  | Lunch Break             |                               |
+| 1:30  - 2:00  | Invited Talk 4          | 20-min talk + 10-min Q&A      |
+| 2:00  - 2:30  | Invited Talk 5          | 20-min talk + 10-min Q&A      |
+| 2:30  - 3:00  | Invited Talk 6          | 20-min talk + 10-min Q&A      |
+| 3:00  - 3:30  | Coffee Break            |                               |
+| 3:30  - 4:15  | Panel Discussion        | Panel of invited speakers     |
+| 4:15  - 5:00  | Round Table Discussions | Themed group discussions      |
+| 5:00  - 5:10  | Closing Remarks         |                               |
+
+</div>
+
+---
+
+## Invited Speakers
+
+
+| [![Julian McAuley](headshots/mcauley.jpg){:.speaker}](https://cseweb.ucsd.edu/~jmcauley/) | **[Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)** is a Professor in the Department of Computer Science and Engineering at the University of California San Diego. He works on applications of machine learning to problems involving personalization, and teaches classes on personalized recommendation. He has also been leading the [MUSAIC](https://ucsd-musaic.github.io/) team at UCSD. His lab has significant contributions to machine music understanding, symbolic music processing, music generation, NLP for music, and audiovisual learning. |
+| [![Chris Donahue](headshots/donahue.jpg){:.speaker}](https://chrisdonahue.com/) | **[Chris Donahue](https://chrisdonahue.com/)** is an Assistant Professor in the Computer Science Department at the Carnegie Mellon University, and a part-time research scientist at Google DeepMind. His research goal is to develop and responsibly deploy generative AI for music and creativity, thereby unlocking and augmenting human creative potential. His research has been featured in live performances by professional musicians like [The Flaming Lips](https://magenta.tensorflow.org/fruitgenie), and also empowers hundreds of daily users to convert their favorite music into interactive content through his website [Beat Sage](https://www.roadtovr.com/beat-saber-project-uses-ai-generate-custom-beat-maps-song/). |
+| [![Akira Maezawa](headshots/maezawa.png){:.speaker}](https://www.linkedin.com/in/akira-maezawa-7662a655/) | **[Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/)** is a Principal Senior Engineer at Yamaha Corporation. He has been leading the music informatics applications lab in the MINA Lab based in Yokohama. He works on AI music ensemble technology that will allow AI to perform together with people, and technology that predicts musical metadata – such as beats – from musical acoustic signals. He also interacts with customers at experience-based installations and hold discussions at universities and with artists, to see how people are actually using the technologies we create in the real world. |
+| [![Ilaria Manco](headshots/manco.jpg){:.speaker}](https://ilariamanco.com/) | **[Ilaria Manco](https://ilariamanco.com/)** is a Research Scientist at Google Deepmind. She works on music understanding and generative models for interactive, real-time music creation. Her Phd dissertation focused on developing multimodal deep learning methods to enable music understanding by learning representations from audio and language. |
+
+---
+
+## Organizers
+
+| [![Hao-Wen (Herman) Dong](headshots/dong.jpg){:.speaker}](https://hermandong.com/) | **[Hao-Wen (Herman) Dong](https://hermandong.com/)** is an Assistant Professor in the Department of Performing Arts Technology at the University of Michigan. Herman’s research aims to augment human creativity with machine learning. He develops human-centered generative AI technology that can be integrated into the professional creative workflow, with a focus on music, audio and video content creation. His long-term goal is to lower the barrier of entry for content creation and democratize professional content creation for everyone. Herman received his PhD degree in Computer Science from University of California San Diego, where he worked with Julian McAuley and Taylor Berg-Kirkpatrick. His research has been recognized by the UCSD CSE Doctoral Award for Excellence in Research, KAUST Rising Stars in AI, UChicago and UCSD Rising Stars in Data Science, ICASSP Rising Stars in Signal Processing, and UCSD GPSA Interdisciplinary Research Award. |
+| [![Zachary Novack](headshots/novack.jpg){:.speaker}](https://zacharynovack.github.io/) | **[Zachary Novack](https://zacharynovack.github.io/)** is a PhD student in the Computer Science and Engineering department at the University of California San Diego, advised by Dr. Julian McAuley and Dr. Taylor Berg-Kirkpatrick. His research focuses on controllable and efficient music/audio generation, as well as audio reasoning in LLMs. His long-term goal is to design bespoke creative tools for musicians and everyday users alike with adaptive control and real-time interaction, collaborating with top industry labs such as Adobe Research, Stability AI, and Sony AI. Zachary's work has been recognized at numerous top-tier AI conferences, including DITTO (ICML 2024 Oral), \emph{Presto!} (ICLR 2025 Spotlight), CoLLAP (ICASSP 2025 Oral), and hosted the ISMIR 2024 Tutorial on Connecting Music Audio and Natural Language. Outside of academia, Zachary is active within the southern California marching arts community, working as an educator for the 11-time world class finalist percussion ensemble POW Percussion. |
+| [![Yung-Hsiang Lu](headshots/lu.jpg){:.speaker}](https://yhlu.net/) | **[Yung-Hsiang Lu](https://yhlu.net/)** is a Professor in the Elmore Family School of Electrical and Computer Engineering at Purdue University. He is a fellow of the IEEE and a distinguished scientist of the ACM. Yung-Hsiang has published papers on computer vision and machine learning in venues such as AI Magazine, Nature Machine Learning, and Computer. He is one of the editors of the book ``Low-Power Computer Vision: Improve the Efficiency of Artificial Intelligence'' (ISBN 9780367744700, 2022 by Chapman \& Hall). |
+| [![Kristen Yeon-Ji Yun](headshots/yun.jpg){:.speaker}](https://kristenyeonjiyun.com/) | **[Kristen Yeon-Ji Yun](https://kristenyeonjiyun.com/)** is a Clinical Associate Professor in the Department of Music at the Patti and Rusty Rueff School of Design, Art, and Performance at Purdue University. She is the Principal Investigator of the research project "Artificial Intelligence Technology for Future Music Performers" (US National Science Foundation, IIS 2326198). Kristen is an active soloist, chamber musician, musical scholar, and clinician. She has toured many countries, including Malaysia, Thailand, Germany, Mexico, Japan, China, Hong Kong, Spain, France, Italy, Taiwan, and South Korea, giving a series of successful concerts and master classes. |
+| [![Benjamin Shiue-Hal Chou](headshots/chou.jpg){:.speaker}](https://www.linkedin.com/in/benjamin-chou-6aa058228/) | **[Benjamin Shiue-Hal Chou](https://www.linkedin.com/in/benjamin-chou-6aa058228/)** is a PhD Student in Electrical and Computer Engineering at Purdue University, supervised by Dr. Yung-Hsiang Lu. His research focuses on artificial intelligence applications in music technology, particularly on detecting errors in music performances. Benjamin has co-authored “Token Turing Machines are Efficient Vision Models” (arXiv preprint arXiv:2409.07613, 2024). He earned his Bachelor of Science in Electrical Engineering from National Cheng Kung University (NCKU) in Taiwan, receiving awards such as the Outstanding Student Scholarship, Transnational Research Scholarship Grant, and the Tainan City Digital Governance Talent Award. |
+
+---
+
+## Program Committee
+
+TBA
