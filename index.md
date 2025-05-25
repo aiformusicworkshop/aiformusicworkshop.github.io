@@ -30,7 +30,7 @@ The workshop invites contributions from the community on relevant topics of AI a
   - Music education
   - Music therapy
 - Music perception and cognition
-- Legal and ethical implications of AI music
+- Legal, ethical and societal implications of AI music
 - Challenges in commercialization of AI music tools
 - AI's impacts on the musician community
 - AI's implications for future musicians
