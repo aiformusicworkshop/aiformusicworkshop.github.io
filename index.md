@@ -12,22 +12,24 @@ This workshop will explore the dynamic intersection of AI and music, a rapidly e
 
 The workshop invites contributions from the community on relevant topics of AI and music, broadly defined. Topic of interests includes, but not limited to:
 
-- Music generation
-- Singing voice synthesis
-- Sound design and soundtrack generation
-- Lyric generation and translation
-- Intelligent music production
-- Music performance modeling
-- Music creative interfaces
-- Robotic musicianship
-- Human-AI music co-creativity
-- Music recommender systems
-- Music information retrieval
-- Optical music recognition
-- Music transcription
-- Computational music theory
+- Applications of AI in
+  - Music theory and musicology
+  - Optical music recognition
+  - Music transcription
+  - Music generation
+  - Sound design and soundtrack generation
+  - Singing voice synthesis
+  - Lyric generation and translation
+  - Music creative interfaces
+  - Robotic musicianship
+  - Human-AI music co-creativity
+  - Music production
+  - Music performance modeling
+  - Music information retrieval
+  - Music recommender systems
+  - Music education
+  - Music therapy
 - Music perception and cognition
-- Music education technology
 - Legal and ethical implications of AI music
 - Challenges in commercialization of AI music tools
 - AI's impacts on the musician community
@@ -82,7 +84,7 @@ OpenReview submission portal: TBA
 
 | [![Julian McAuley](headshots/mcauley.jpg){:.speaker}](https://cseweb.ucsd.edu/~jmcauley/) | **[Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)** is a Professor in the Department of Computer Science and Engineering at the University of California San Diego. He works on applications of machine learning to problems involving personalization, and teaches classes on personalized recommendation. He has also been leading the [MUSAIC](https://ucsd-musaic.github.io/) team at UCSD. His lab has significant contributions to machine music understanding, symbolic music processing, music generation, NLP for music, and audiovisual learning. |
 | [![Chris Donahue](headshots/donahue.jpg){:.speaker}](https://chrisdonahue.com/) | **[Chris Donahue](https://chrisdonahue.com/)** is an Assistant Professor in the Computer Science Department at the Carnegie Mellon University, and a part-time research scientist at Google DeepMind. His research goal is to develop and responsibly deploy generative AI for music and creativity, thereby unlocking and augmenting human creative potential. His research has been featured in live performances by professional musicians like [The Flaming Lips](https://magenta.tensorflow.org/fruitgenie), and also empowers hundreds of daily users to convert their favorite music into interactive content through his website [Beat Sage](https://www.roadtovr.com/beat-saber-project-uses-ai-generate-custom-beat-maps-song/). |
-| [![Akira Maezawa](headshots/maezawa.png){:.speaker}](https://www.linkedin.com/in/akira-maezawa-7662a655/) | **[Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/)** is a Principal Senior Engineer at Yamaha Corporation. He has been leading the music informatics applications lab in the MINA Lab based in Yokohama. He works on AI music ensemble technology that will allow AI to perform together with people, and technology that predicts musical metadata – such as beats – from musical acoustic signals. He also interacts with customers at experience-based installations and hold discussions at universities and with artists, to see how people are actually using the technologies we create in the real world. |
+| [![Akira Maezawa](headshots/maezawa.jpg){:.speaker}](https://www.linkedin.com/in/akira-maezawa-7662a655/) | **[Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/)** is a Principal Senior Engineer at Yamaha Corporation. He has been leading the music informatics applications lab in the MINA Lab based in Yokohama. He works on AI music ensemble technology that will allow AI to perform together with people, and technology that predicts musical metadata – such as beats – from musical acoustic signals. He also interacts with customers at experience-based installations and hold discussions at universities and with artists, to see how people are actually using the technologies we create in the real world. |
 | [![Ilaria Manco](headshots/manco.jpg){:.speaker}](https://ilariamanco.com/) | **[Ilaria Manco](https://ilariamanco.com/)** is a Research Scientist at Google Deepmind. She works on music understanding and generative models for interactive, real-time music creation. Her Phd dissertation focused on developing multimodal deep learning methods to enable music understanding by learning representations from audio and language. |
 
 ---
