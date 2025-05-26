@@ -4,13 +4,39 @@
 
 ## Description
 
-This workshop will explore the dynamic intersection of AI and music, a rapidly evolving field where creativity meets computation. Music is one of the most universal and emotionally resonant forms of human expression. Producing, understanding, and processing music presents unique challenges for machine learning due to its creative, expressive, subjective, and interactive nature. The workshop aims to discuss the latest advancements of AI's applications in music, from analysis, creation, retrieval to processing. The workshop will also discuss AI's impacts on the musician community, implications on music education, and challenges of adoption in the music industry. The workshop will feature invited talks, contributed talks, posters, a demo session, and a panel discussion. As the first NeurIPS workshop dedicated to music, we believe that the workshop will reach a wide audience and attract AI researchers, musicians, music producers, media artists, tech enthusiasts, and educators interested in the status and future of AI music.
+This workshop explores the dynamic intersection of AI and music, a rapidly evolving field where creativity meets computation. Music is one of the most universal and emotionally resonant forms of human expression. Producing, understanding, and processing music presents unique challenges for machine learning due to its creative, expressive, subjective, and interactive nature. According to the IFPI Global Music Report 2025 published by the International Federation of the Phonographic Industry (IFPI), "*AI will be one of the defining issues of our time and record companies have embraced its potential to enhance artist creativity and develop new and exciting fan experiences.*" AI has tremendous impacts on all aspects of music, across composition, production, performance, distribution, and education. Recent years have also seen rapidly growing interests among the machine learning community in AI music research. In this first NeurIPS workshop dedicated to music, we want to bring together the music and AI communities to facilitate a timely, interdisciplinary conversation on the status and future of AI for music.
+
+The goal of this workshop is two-fold: First, we aim to explore the latest advancements of AI's applications for music, from analysis, creation, performance, processing, retrieval to music education and therapy. Second, we aim to discuss the impacts and implications of AI in music, including AI's impacts on the music industry, musician community, and music education as well as ethical, legal and societal implications of AI music and AI's implications for future musicians. We will emphasize networking and community building in this workshop to generate a sustainable research momentum.
+
+The workshop will feature invited talks, contributed spotlight presentations, a poster and demo session, a panel discussion, and round table discussions. We have invited six speakers from a diverse background who will bring interdisciplinary perspectives to the audience. We will solicit original 4-page papers from the community. We will also call for demos accompanied by 2-page extended abstracts to accommodate the various formats AI music innovations may take.
 
 ---
 
 ## Call for Papers & Demos
 
-The workshop invites contributions from the community on relevant topics of AI and music, broadly defined. Topic of interests includes, but not limited to:
+We invite contributions from the community on **relevant topics of AI and music, broadly defined**{:.accent}.
+
+### Call for Papers
+
+We call for original **4-page papers**{:.accent} (excluding references) on relevant topics of AI and music, broadly defined. We encourage and welcome papers discussing initial concepts, early results, and promising directions. All accepted papers will be presented in the poster and demo session. A small number of papers will be selected for 10-min spotlight presentations. The review process will be **double-blind**{:.accent}. Accepted papers will be posted on the workshop website but will not be published or archived
+
+### Call for Demos
+
+We call for demos of novel AI music tools and artistic work. Each demo submission will be accompanied by a **2-page extended abstract**{:.accent} (excluding references) in NeurIPS format. We encourage the authors to submit an **optional short video recording**{:.accent} (no longer than 10 min) as supplementary materials. The selected demos will each be assigned a poster board in the poster and demo session. The goal of the demo session is to accommodate the various forms that novel AI music innovations may take, and thus we will adopt a **single-blind**{:.accent} review process.
+
+### Important Dates
+
+The following due dates apply to both paper and demo submissions:
+
+- **Paper Submission Deadline: August 22, AoE**{:.accent}
+- Author Notification Date: September 22, AoE
+- Camera-ready Due: November 7, AoE
+
+OpenReview submission portal: TBA
+
+### Topics of interest
+
+Topics of interest include, but not limited to:
 
 - **Applications of AI in music**
   - Music theory and musicology
@@ -37,24 +63,6 @@ The workshop invites contributions from the community on relevant topics of AI a
   - Ethical, legal and societal implications of AI music
   - Challenges in commercializing AI music tools
   - Emerging opportunities of AI music
-
-### Call for Papers
-
-We call for original **4-page papers**{:.accent} (excluding references) on relevant topics of AI and music, broadly defined. We encourage and welcome papers discussing initial concepts, early results, and promising directions. All accepted papers will be presented in the poster and demo session. A small number of papers will be selected for 10-min spotlight presentations. The review process will be **double-blind**{:.accent}.
-
-### Call for Demos
-
-We call for demos of novel AI music tools and artistic work. Each demo submission will be accompanied by a **2-page extended abstract**{:.accent} (excluding references and supplementary materials) in NeurIPS format. *We encourage the authors to submit short video recordings as supplementary materials to support their submission.* The selected demos will each be assigned a poster board in the poster and demo session. The goal of the demo session is to accommodate the various formats that novel AI music innovations can be best presented, and thus we will adopt a **single-blind**{:.accent} review process.
-
-### Important Dates
-
-The following due dates apply to both paper and demo submissions:
-
-- **Paper Submission Deadline: August 22, AoE**{:.accent}
-- Author Notification Date: September 22, AoE
-- Camera-ready Due: November 7, AoE
-
-OpenReview submission portal: TBA
 
 ---
 
