@@ -1,3 +1,11 @@
+ul ul, ol ul, ul ol, ol ol {
+  margin-bottom: 0px;
+}
+
+.accent {
+  color: #368b86; //#368b86 #503b66
+}
+
 .logo {
     border-radius: 20px;
 }
@@ -11,11 +19,7 @@
   background-color: #eee;
 }
 
-.speaker {
+.headshot {
   max-width: 120px;
   border-radius: 50%;
-}
-
-ul ul, ol ul, ul ol, ol ol {
-  margin-bottom: 0px;
 }
