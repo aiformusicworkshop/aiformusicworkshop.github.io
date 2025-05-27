@@ -115,4 +115,4 @@ Topics of interest include, but not limited to:
 
 (In alphabetical order)
 
-Benjamin Shiue-Hal Chou, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Jiawen Huang, Molly Jones, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Zachary Novack, Nikhil Singh, Christian Steinmetz, Li Su, John Thickstun, Fang-Duo Tsai, Shih-Lun Wu, Xin Xu, Weihan Xu, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Ge Zhu
+Julia Barnett, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Annie Chu, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Jiawen Huang, Yun-Ning Hung, Molly Jones, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Jiawen Mao, Zachary Novack, Bryan Pardo, Nikhil Singh, Christian Steinmetz, Li Su, John Thickstun, Fang-Duo Tsai, Ziyu Wang, Shih-Lun Wu, Xin Xu, Weihan Xu, Jayeon Yi, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
