@@ -70,21 +70,21 @@ Topics of interest include, but not limited to:
 
 <div class="table-wrapper schedule" markdown="block">
 
-| 8:20  - 8:30  | Welcoming Remarks       |                               |
-| 8:30  - 9:00  | Invited Talk by [Chris Donahue](https://chrisdonahue.com/) | 20-min talk + 10-min Q&A      |
-| 9:00  - 9:30  | Invited Talk by [Shlomo Dubnov](https://scholar.google.com/citations?user=NJfiIl8AAAAJ)<br>*Music Co-creativity with AI*{:.accent} | 20-min talk + 10-min Q&A      |
-| 9:30  - 10:00 | Invited Talk by [Ilaria Manco](https://ilariamanco.com/) | 20-min talk + 10-min Q&A      |
-| 10:00 - 10:30 | Coffee Break            |                               |
-| 10:30 - 11:00 | Spotlight Presentations | Three 10-min talks            |
-| 11:00 - 12:00 | Poster & Demo Session   | Contributed posters and demos |
-| 12:00 - 1:30  | Lunch Break             |                               |
-| 1:30  - 2:00  | Invited Talk by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/)<br>*Assisting Music Performance through AI*{:.accent} | 20-min talk + 10-min Q&A      |
-| 2:00  - 2:30  | Invited Talk | 20-min talk + 10-min Q&A      |
-| 2:30  - 3:00  | Invited Talk by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)<br>*Recommendation and Personalization for Music*{:.accent} | 20-min talk + 10-min Q&A      |
-| 3:00  - 3:30  | Coffee Break            |                               |
-| 3:30  - 4:15  | Panel Discussion        | Panel of invited speakers     |
-| 4:15  - 5:00  | Round Table Discussions | Themed group discussions      |
-| 5:00  - 5:10  | Closing Remarks         |                               |
+| 8:20  - 8:30  | Welcoming Remarks       |                             |
+| 8:30  - 9:00  | Invited Talk by [Chris Donahue](https://chrisdonahue.com/) (CMU)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} | 20-min talk + 10-min Q&A    |
+| 9:00  - 9:30  | Invited Talk by [Shlomo Dubnov](https://scholar.google.com/citations?user=NJfiIl8AAAAJ) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} | 20-min talk + 10-min Q&A    |
+| 9:30  - 10:00 | Invited Talk by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and<br>Increasing Control*{:.accent} | 20-min talk + 10-min Q&A    |
+| 10:00 - 10:30 | Coffee Break            |                             |
+| 10:30 - 11:00 | Spotlight Presentations | Three 10-min talks          |
+| 11:00 - 12:00 | Poster & Demo Session   | Contributed posters & demos |
+| 12:00 - 1:30  | Lunch Break             |                             |
+| 1:30  - 2:00  | Invited Talk by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} | 20-min talk + 10-min Q&A    |
+| 2:00  - 2:30  | Invited Talk by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} | 20-min talk + 10-min Q&A    |
+| 2:30  - 3:00  | Invited Talk by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Recommendation and Personalization for Music*{:.accent} | 20-min talk + 10-min Q&A    |
+| 3:00  - 3:30  | Coffee Break            |                             |
+| 3:30  - 4:15  | Panel Discussion        | Panel of invited speakers   |
+| 4:15  - 5:00  | Round Table Discussions | Themed group discussions    |
+| 5:00  - 5:10  | Closing Remarks         |                             |
 
 </div>
 
@@ -96,8 +96,8 @@ Topics of interest include, but not limited to:
 | [![Shlomo Dubnov](headshots/dubnov.jpg){:.headshot}](https://scholar.google.com/citations?user=NJfiIl8AAAAJ) | **[Shlomo Dubnov](https://scholar.google.com/citations?user=NJfiIl8AAAAJ)** is a Professor in the Music Department and Affiliate Professor in Computer Science and Engineering at the University of California San Diego. He is also the Director of the Center for Research in Entertainment and Learning at Qualcomm Institute. He is best known for his research on poly-spectral analysis of musical timbre and inventing the method of Music Information Dynamics with applications in Computer Audition and Machine improvisation. |
 | [![Ilaria Manco](headshots/manco.jpg){:.headshot}](https://ilariamanco.com/) | **[Ilaria Manco](https://ilariamanco.com/)** is a Research Scientist at Google Deepmind. She works on music understanding and generative models for interactive, real-time music creation. Her Phd dissertation focused on developing multimodal deep learning methods to enable music understanding by learning representations from audio and language. |
 | [![Akira Maezawa](headshots/maezawa.jpg){:.headshot}](https://www.linkedin.com/in/akira-maezawa-7662a655/) | **[Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/)** is a Principal Senior Engineer at Yamaha Corporation. He has been leading the music informatics applications lab in the MINA Lab based in Yokohama. He works on AI music ensemble technology that will allow AI to perform together with people, and technology that predicts musical metadata – such as beats – from musical acoustic signals. He also interacts with customers at experience-based installations and hold discussions at universities and with artists, to see how people are actually using the technologies we create in the real world. |
+| [![Anna Huang](headshots/huang.jpg){:.headshot}](https://czhuang.github.io/) | **[Anna Huang](https://czhuang.github.io/)** is an Assistant Professor at the Massachusetts Institute of Technology, with a shared position between Electrical Engineering and Computer Science (EECS) and Music and Theater Arts (MTA). She is the creator of the ML model Coconet that powered Google's first AI Doodle, the [Bach Doodle](https://magenta.tensorflow.org/coconet). In two days, Coconet harmonized 55 million melodies from users around the world. In 2018, she created [Music Transformer](https://magenta.tensorflow.org/music-transformer), a breakthrough in generating music with long-term structure, and the first successful adaptation of the transformer architecture to music. She was a Canada CIFAR AI Chair at Mila. |
 | [![Julian McAuley](headshots/mcauley.jpg){:.headshot}](https://cseweb.ucsd.edu/~jmcauley/) | **[Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)** is a Professor in the Department of Computer Science and Engineering at the University of California San Diego. He works on applications of machine learning to problems involving personalization, and teaches classes on personalized recommendation. He has also been leading the [MUSAIC](https://ucsd-musaic.github.io/) team at UCSD. His lab has significant contributions to machine music understanding, symbolic music processing, music generation, NLP for music, and audiovisual learning. |
-
 
 ---
 
