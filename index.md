@@ -33,7 +33,7 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
 
 The following due dates apply to both paper and demo submissions:
 
-- **Paper Submission Deadline:**{:.accent} **August 22, AoE**{:.red}
+- **Submission Deadline:**{:.accent} **August 22, AoE**{:.red}
 - Author Notification Date: September 22, AoE
 - Camera-ready Due: November 7, AoE
 
@@ -119,3 +119,10 @@ Topics of interest include, but not limited to:
 (In alphabetical order)
 
 Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Annie Chu, Chris Donahue, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Wen-Yi Hsiao, Jiawen Huang, Jingyue Huang, Yun-Ning Hung, Dasaem Jeong, Molly Jones, Tornike Karchkhadze, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Jiawen Mao, Oriol Nieto, Zachary Novack, Patrick O'Reilly, Bryan Pardo, Nikhil Singh, Christian Steinmetz, Li Su, Jiaye Tan, John Thickstun, Fang-Duo Tsai, Ziyu Wang, Junda Wu, Shih-Lun Wu, Yusong Wu, Xin Xu, Weihan Xu, Jayeon Yi, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
+
+---
+
+## Previous Iterations
+
+- [AAAI 2025](https://ai4musicians.org/2025aaai.html)
+- [ICME 2025](https://ai4musicians.org/2025icme.html)
