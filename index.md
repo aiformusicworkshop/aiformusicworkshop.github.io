@@ -1,6 +1,9 @@
-# Workshop on Artificial Intelligence for Music: *Where Creativity Meets Computation*{:.accent}
+# **NeurIPS 2025 Workshop on AI for Music:**{:.accent2}<br>*Where Creativity Meets Computation*{:.accent}
 
-> A NeurIPS 2025 workshop proposal
+> December 6 or 7 @ San Diego Convention Center\\
+> Contact: <aiformusicworkshop@gmail.com>
+
+---
 
 ## Description
 
@@ -14,7 +17,9 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 ## Call for Papers & Demos
 
-We invite contributions from the community on **relevant topics of AI and music, broadly defined**{:.accent}.
+We invite contributions from the community on relevant topics of AI and music, *broadly defined*.
+
+**OpenReview submission portal: TBA**{:.accent}
 
 ### Call for Papers
 
@@ -28,13 +33,11 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
 
 The following due dates apply to both paper and demo submissions:
 
-- **Paper Submission Deadline: August 22, AoE**{:.accent}
+- **Paper Submission Deadline:**{:.accent} **August 22, AoE**{:.red}
 - Author Notification Date: September 22, AoE
 - Camera-ready Due: November 7, AoE
 
-OpenReview submission portal: TBA
-
-### Topics of interest
+### Topics of Interest
 
 Topics of interest include, but not limited to:
 
@@ -72,7 +75,7 @@ Topics of interest include, but not limited to:
 
 | 8:20  - 8:30  | Welcoming Remarks       |                             |
 | 8:30  - 9:00  | Invited Talk by [Chris Donahue](https://chrisdonahue.com/) (CMU)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} | 20-min talk + 10-min Q&A    |
-| 9:00  - 9:30  | Invited Talk by [Shlomo Dubnov](https://scholar.google.com/citations?user=NJfiIl8AAAAJ) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} | 20-min talk + 10-min Q&A    |
+| 9:00  - 9:30  | Invited Talk by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} | 20-min talk + 10-min Q&A    |
 | 9:30  - 10:00 | Invited Talk by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and<br>Increasing Control*{:.accent} | 20-min talk + 10-min Q&A    |
 | 10:00 - 10:30 | Coffee Break            |                             |
 | 10:30 - 11:00 | Spotlight Presentations | Three 10-min talks          |
@@ -93,7 +96,7 @@ Topics of interest include, but not limited to:
 ## Invited Speakers
 
 | [![Chris Donahue](headshots/donahue.jpg){:.headshot}](https://chrisdonahue.com/) | **[Chris Donahue](https://chrisdonahue.com/)** is an Assistant Professor in the Computer Science Department at the Carnegie Mellon University, and a part-time research scientist at Google DeepMind. His research goal is to develop and responsibly deploy generative AI for music and creativity, thereby unlocking and augmenting human creative potential. His research has been featured in live performances by professional musicians like [The Flaming Lips](https://magenta.tensorflow.org/fruitgenie), and also empowers hundreds of daily users to convert their favorite music into interactive content through his website [Beat Sage](https://www.roadtovr.com/beat-saber-project-uses-ai-generate-custom-beat-maps-song/). |
-| [![Shlomo Dubnov](headshots/dubnov.jpg){:.headshot}](https://scholar.google.com/citations?user=NJfiIl8AAAAJ) | **[Shlomo Dubnov](https://scholar.google.com/citations?user=NJfiIl8AAAAJ)** is a Professor in the Music Department and Affiliate Professor in Computer Science and Engineering at the University of California San Diego. He is also the Director of the Center for Research in Entertainment and Learning at Qualcomm Institute. He is best known for his research on poly-spectral analysis of musical timbre and inventing the method of Music Information Dynamics with applications in Computer Audition and Machine improvisation. |
+| [![Shlomo Dubnov](headshots/dubnov.jpg){:.headshot}](http://dub.ucsd.edu/) | **[Shlomo Dubnov](http://dub.ucsd.edu/)** is a Professor in the Music Department and Affiliate Professor in Computer Science and Engineering at the University of California San Diego. He is also the Director of the Center for Research in Entertainment and Learning at Qualcomm Institute. He is best known for his research on poly-spectral analysis of musical timbre and inventing the method of Music Information Dynamics with applications in Computer Audition and Machine improvisation. |
 | [![Ilaria Manco](headshots/manco.jpg){:.headshot}](https://ilariamanco.com/) | **[Ilaria Manco](https://ilariamanco.com/)** is a Research Scientist at Google Deepmind. She works on music understanding and generative models for interactive, real-time music creation. Her Phd dissertation focused on developing multimodal deep learning methods to enable music understanding by learning representations from audio and language. |
 | [![Akira Maezawa](headshots/maezawa.jpg){:.headshot}](https://www.linkedin.com/in/akira-maezawa-7662a655/) | **[Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/)** is a Principal Senior Engineer at Yamaha Corporation. He has been leading the music informatics applications lab in the MINA Lab based in Yokohama. He works on AI music ensemble technology that will allow AI to perform together with people, and technology that predicts musical metadata – such as beats – from musical acoustic signals. He also interacts with customers at experience-based installations and hold discussions at universities and with artists, to see how people are actually using the technologies we create in the real world. |
 | [![Anna Huang](headshots/huang.jpg){:.headshot}](https://czhuang.github.io/) | **[Anna Huang](https://czhuang.github.io/)** is an Assistant Professor at the Massachusetts Institute of Technology, with a shared position between Electrical Engineering and Computer Science (EECS) and Music and Theater Arts (MTA). She is the creator of the ML model Coconet that powered Google's first AI Doodle, the [Bach Doodle](https://magenta.tensorflow.org/coconet). In two days, Coconet harmonized 55 million melodies from users around the world. In 2018, she created [Music Transformer](https://magenta.tensorflow.org/music-transformer), a breakthrough in generating music with long-term structure, and the first successful adaptation of the transformer architecture to music. She was a Canada CIFAR AI Chair at Mila. |
@@ -115,4 +118,4 @@ Topics of interest include, but not limited to:
 
 (In alphabetical order)
 
-Erfun Ackley, Julia Barnett, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Annie Chu, Chris Donahue, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Wen-Yi Hsiao, Jiawen Huang, Jingyue Huang, Yun-Ning Hung, Dasaem Jeong, Molly Jones, Tornike Karchkhadze, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Jiawen Mao, Oriol Nieto, Zachary Novack, Patrick O'Reilly, Bryan Pardo, Nikhil Singh, Christian Steinmetz, Li Su, Jiaye Tan, John Thickstun, Fang-Duo Tsai, Ziyu Wang, Junda Wu, Shih-Lun Wu, Yusong Wu, Xin Xu, Weihan Xu, Jayeon Yi, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
+Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Annie Chu, Chris Donahue, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Wen-Yi Hsiao, Jiawen Huang, Jingyue Huang, Yun-Ning Hung, Dasaem Jeong, Molly Jones, Tornike Karchkhadze, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Jiawen Mao, Oriol Nieto, Zachary Novack, Patrick O'Reilly, Bryan Pardo, Nikhil Singh, Christian Steinmetz, Li Su, Jiaye Tan, John Thickstun, Fang-Duo Tsai, Ziyu Wang, Junda Wu, Shih-Lun Wu, Yusong Wu, Xin Xu, Weihan Xu, Jayeon Yi, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
