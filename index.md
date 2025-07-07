@@ -42,11 +42,11 @@ The following due dates apply to both paper and demo submissions:
 Topics of interest include, but not limited to:
 
 - **Applications of AI in music**
-  - Music theory and musicology
+  - Music theory & musicology
   - Optical music recognition
   - Music transcription
   - Music generation
-  - Sound design and soundtrack generation
+  - Sound design & soundtrack generation
   - Singing voice synthesis
   - Lyric generation and translation
   - Musical instrument design
@@ -58,14 +58,16 @@ Topics of interest include, but not limited to:
   - Music recommender systems
   - Music education
   - Music therapy
-- **Impacts and implications of AI in music**
+  {:.two-column}
+- **Impacts & implications of AI in music**
   - Impacts on music industry
   - Impacts on the musician community
   - Impacts on music education
   - Implications for future musicians
-  - Ethical, legal and societal implications of AI music
+  - Ethical, legal & societal implications of AI music
   - Challenges in commercializing AI music tools
   - Emerging opportunities of AI music
+  {:.two-column}
 
 ---
 
@@ -73,21 +75,23 @@ Topics of interest include, but not limited to:
 
 <div class="table-wrapper schedule" markdown="block">
 
-| 8:20  - 8:30  | Welcoming Remarks       |                             |
-| 8:30  - 9:00  | Invited Talk by [Chris Donahue](https://chrisdonahue.com/) (CMU)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} | 20-min talk + 10-min Q&A    |
-| 9:00  - 9:30  | Invited Talk by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} | 20-min talk + 10-min Q&A    |
-| 9:30  - 10:00 | Invited Talk by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and<br>Increasing Control*{:.accent} | 20-min talk + 10-min Q&A    |
-| 10:00 - 10:30 | Coffee Break            |                             |
-| 10:30 - 11:00 | Spotlight Presentations | Three 10-min talks          |
-| 11:00 - 12:00 | Poster & Demo Session   | Contributed posters & demos |
-| 12:00 - 1:30  | Lunch Break             |                             |
-| 1:30  - 2:00  | Invited Talk by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} | 20-min talk + 10-min Q&A    |
-| 2:00  - 2:30  | Invited Talk by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} | 20-min talk + 10-min Q&A    |
-| 2:30  - 3:00  | Invited Talk by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Recommendation and Personalization for Music*{:.accent} | 20-min talk + 10-min Q&A    |
-| 3:00  - 3:30  | Coffee Break            |                             |
-| 3:30  - 4:15  | Panel Discussion        | Panel of invited speakers   |
-| 4:15  - 5:00  | Round Table Discussions | Themed group discussions    |
-| 5:00  - 5:10  | Closing Remarks         |                             |
+|||
+|:-:|--|
+| 8:20  - 8:30  | Welcoming Remarks                                      |
+| 8:30  - 9:00  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} |
+| 9:00  - 9:30  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} |
+| 9:30  - 10:00 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
+| 10:00 - 10:30 | Coffee Break                                           |
+| 10:30 - 11:00 | **Spotlight Presentations**                            |
+| 11:00 - 12:00 | **Poster & Demo Session**                              |
+| 12:00 - 1:30  | Lunch Break                                            |
+| 1:30  - 2:00  | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
+| 2:00  - 2:30  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} |
+| 2:30  - 3:00  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Recommendation and Personalization for Music*{:.accent} |
+| 3:00  - 3:30  | Coffee Break                                           |
+| 3:30  - 4:15  | **Panel Discussion** (with invited speakers)           |
+| 4:15  - 5:00  | **Round Table Discussions** (themed group discussions) |
+| 5:00  - 5:10  | Closing Remarks                                        |
 
 </div>
 

@@ -24,6 +24,16 @@
   border-radius: 50%;
 }
 
+.schedule th {
+  display: none;
+}
+
 .schedule tr:nth-child(5), .schedule tr:nth-child(8), .schedule tr:nth-child(12) {
   background-color: #eee;
+}
+
+.two-column {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
