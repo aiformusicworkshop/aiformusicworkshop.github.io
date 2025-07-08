@@ -37,3 +37,11 @@
   -webkit-columns: 2;
   -moz-columns: 2;
 }
+
+@media print, screen and (max-width: 720px) {
+  .two-column {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+  }
+}
