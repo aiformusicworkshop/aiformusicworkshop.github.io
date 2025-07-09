@@ -1,0 +1,6 @@
+name: jekyll
+channels:
+  - conda-forge
+dependencies:
+  - ruby
+  - compilers
