@@ -17,13 +17,13 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 ## Call for Papers & Demos
 
-We invite contributions from the community on relevant topics of AI and music, *broadly defined*.
+We invite contributions from the community on relevant topics of AI and music, *broadly defined*. This workshop is **non-archival**{:.accent}. Accepted papers will be posted on the workshop website but will not be published or archived. We welcome work that is under review or to be submitted to other venues.
 
 **OpenReview submission portal: TBA**{:.accent}
 
 ### Call for Papers
 
-We call for original **4-page papers**{:.accent} (excluding references) on relevant topics of AI and music, broadly defined. We encourage and welcome papers discussing initial concepts, early results, and promising directions. All accepted papers will be presented in the poster and demo session. A small number of papers will be selected for 10-min spotlight presentations. The review process will be **double-blind**{:.accent}. Accepted papers will be posted on the workshop website but will not be published or archived
+We call for original **4-page papers**{:.accent} (excluding references) on relevant topics of AI and music, broadly defined. We encourage and welcome papers discussing initial concepts, early results, and promising directions. All accepted papers will be presented in the poster and demo session. A small number of papers will be selected for 10-min spotlight presentations. The review process will be **double-blind**{:.accent}.
 
 ### Call for Demos
 
