@@ -19,7 +19,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 We invite contributions from the community on relevant topics of AI and music, *broadly defined*. This workshop is **non-archival**{:.accent}. Accepted papers will be posted on the workshop website but will not be published or archived. We welcome work that is under review or to be submitted to other venues.
 
-**OpenReview submission portal: TBA**{:.accent}
+**Submission portal**{:.accent}: [openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Music](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Music)
 
 ### Call for Papers
 
@@ -122,7 +122,7 @@ Topics of interest include, but not limited to:
 
 (In alphabetical order)
 
-Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Annie Chu, Chris Donahue, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Wen-Yi Hsiao, Jiawen Huang, Jingyue Huang, Yun-Ning Hung, Dasaem Jeong, Molly Jones, Tornike Karchkhadze, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Jiawen Mao, Oriol Nieto, Zachary Novack, Patrick O'Reilly, Bryan Pardo, Nikhil Singh, Christian Steinmetz, Li Su, Jiaye Tan, John Thickstun, Fang-Duo Tsai, Ziyu Wang, Junda Wu, Shih-Lun Wu, Yusong Wu, Xin Xu, Weihan Xu, Jayeon Yi, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
+Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Annie Chu, Chris Donahue, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Wen-Yi Hsiao, Jiawen Huang, Jingyue Huang, Yun-Ning Hung, Purvish Jajal, Dasaem Jeong, Molly Jones, Tornike Karchkhadze, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Jiawen Mao, Oriol Nieto, Zachary Novack, Patrick O'Reilly, Bryan Pardo, Nikhil Singh, Christian Steinmetz, Li Su, Jiaye Tan, John Thickstun, Fang-Duo Tsai, Ziyu Wang, Junda Wu, Shih-Lun Wu, Yusong Wu, Xin Xu, Weihan Xu, Jayeon Yi, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
 
 ---
 
