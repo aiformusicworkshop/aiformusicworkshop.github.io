@@ -69,6 +69,21 @@ Topics of interest include, but not limited to:
   - Emerging opportunities of AI music
   {:.two-column}
 
+### Formatting Guide
+
+Please format your paper using the [NeurIPS 2025 LaTeX style file](https://neurips.cc/Conferences/2025/CallForPapers).
+
+1. Set the workshop title on line 40:&emsp;`\workshoptitle{AI for Music}`
+2. For submission, set the options as follows:
+
+   - Papers:&emsp;`\usepackage[dblblindworkshop]{neurips_2025}`
+   - Demos:&emsp;`\usepackage[sglblindworkshop]{neurips_2025}`
+
+3. For camera-ready, set the options as follows:
+
+   - Papers:&emsp;`\usepackage[dblblindworkshop,final]{neurips_2025}`
+   - Demos:&emsp;`\usepackage[sglblindworkshop,final]{neurips_2025}`
+
 ---
 
 ## Tentative Schedule
