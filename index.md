@@ -84,6 +84,8 @@ Please format your paper using the [NeurIPS 2025 LaTeX style file](https://neuri
    - Papers:&emsp;`\usepackage[dblblindworkshop,final]{neurips_2025}`
    - Demos:&emsp;`\usepackage[sglblindworkshop,final]{neurips_2025}`
 
+You may include technical appendices and supplementary material. However, it is up to the reviewer to determine if they want to read them.
+
 ---
 
 ## Tentative Schedule
