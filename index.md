@@ -27,7 +27,7 @@ We call for original **4-page papers**{:.accent} (excluding references) on relev
 
 ### Call for Demos
 
-We call for demos of novel AI music tools and artistic work. Each demo submission will be accompanied by a **2-page extended abstract**{:.accent} (excluding references) in NeurIPS format. We encourage the authors to submit an **optional short video recording**{:.accent} (no longer than 10 min) as supplementary materials. The selected demos will each be assigned a poster board in the poster and demo session. The goal of the demo session is to accommodate the various forms that novel AI music innovations may take, and thus we will adopt a **single-blind**{:.accent} review process.
+We call for demos of novel AI music tools and artistic work. Each demo submission will be accompanied by a **2-page extended abstract**{:.accent} (excluding references). We encourage the authors to submit an **optional short video recording**{:.accent} (no longer than 10 min) as supplementary materials. The selected demos will each be assigned a poster board in the poster and demo session. The goal of the demo session is to accommodate the various forms that novel AI music innovations may take, and thus we will adopt a **single-blind**{:.accent} review process.
 
 ### Important Dates
 
@@ -71,7 +71,7 @@ Topics of interest include, but not limited to:
 
 ### Formatting Guide
 
-Please format your paper using the [NeurIPS 2025 LaTeX style file](https://neurips.cc/Conferences/2025/CallForPapers).
+Please format your paper using the NeurIPS 2025 [LaTeX template](https://neurips.cc/Conferences/2025/CallForPapers).
 
 1. Set the workshop title on line 40:&emsp;`\workshoptitle{AI for Music}`
 2. For submission, set the options as follows:
