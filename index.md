@@ -139,7 +139,7 @@ You may include technical appendices and supplementary material. However, it is 
 
 (In alphabetical order)
 
-Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Annie Chu, Chris Donahue, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Wen-Yi Hsiao, Jiawen Huang, Jingyue Huang, Yun-Ning Hung, Purvish Jajal, Dasaem Jeong, Molly Jones, Tornike Karchkhadze, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Jiawen Mao, Oriol Nieto, Zachary Novack, Patrick O'Reilly, Bryan Pardo, Nikhil Singh, Christian Steinmetz, Li Su, Jiaye Tan, John Thickstun, Fang-Duo Tsai, Mallikarjuna Tupakula, Ziyu Wang, Junda Wu, Shih-Lun Wu, Yusong Wu, Xin Xu, Weihan Xu, Jayeon Yi, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
+Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Annie Chu, Chris Donahue, Hao-Wen Dong, Zhiyao Duan, Shlomo Dubnov, Satoru Fukayama, Hugo Flores García, Dorien Herremans, Wen-Yi Hsiao, Jiawen Huang, Jingyue Huang, Yun-Ning Hung, Purvish Jajal, Dasaem Jeong, Molly Jones, Tornike Karchkhadze, Junghyun (Tony) Koo, Yung-Hsiang Lu, Yin-Jyun Luo, Akira Maezawa, Ilaria Manco, Jiawen Mao, Oriol Nieto, Zachary Novack, Patrick O'Reilly, Ting-Yu Pan, Bryan Pardo, Nikhil Singh, Christian Steinmetz, Li Su, Jiaye Tan, John Thickstun, Fang-Duo Tsai, Mallikarjuna Tupakula, Ziyu Wang, Junda Wu, Shih-Lun Wu, Yusong Wu, Xin Xu, Weihan Xu, Jayeon Yi, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
 
 ---
 
