@@ -69,7 +69,7 @@ Topics of interest include, but not limited to:
   - Emerging opportunities of AI music
   {:.two-column}
 
-### Formatting Guide
+### Formatting Guide {#formatting}
 
 Please format your paper using the NeurIPS 2025 [LaTeX template](https://neurips.cc/Conferences/2025/CallForPapers).
 
@@ -84,7 +84,7 @@ Please format your paper using the NeurIPS 2025 [LaTeX template](https://neurips
    - Papers:&emsp;`\usepackage[dblblindworkshop,final]{neurips_2025}`
    - Demos:&emsp;`\usepackage[sglblindworkshop,final]{neurips_2025}`
 
-You may include technical appendices and supplementary material. However, it is up to the reviewer to determine if they want to read them.
+Note that you do *not* need to include the NeurIPS paper checklist. You may include technical appendices and supplementary material. However, it is up to the reviewer to determine if they want to read them.
 
 ---
 
