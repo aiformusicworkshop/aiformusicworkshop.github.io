@@ -33,7 +33,7 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
 
 The following due dates apply to both paper and demo submissions:
 
-- **Submission Deadline:**{:.accent} **August 22, AoE**{:.red}
+- **Submission Deadline:**{:.accent} ~~August 22, AoE~~{:style="text-decoration-thickness: 3px; text-decoration-color: #9F2936"} **August 29, AoE**{:.red}
 - Author Notification Date: September 22, AoE
 - Camera-ready Due: November 7, AoE
 
