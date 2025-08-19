@@ -86,6 +86,8 @@ Please format your paper using the NeurIPS 2025 [LaTeX template](https://neurips
 
 Note that you do *not* need to include the NeurIPS paper checklist. You may include technical appendices and supplementary material. However, it is up to the reviewer to determine if they want to read them.
 
+For the demo submissions, you may provide a short video recording (10 minutes maximum) to support your work. We recommend you to provide a YouTube link (or equivalent) to the video recording. Please make sure you have set the visibility to *public* or *unlisted* on YouTube. Less preferably, you may upload the video recording as an MP4 file (100 MB maximum).
+
 ---
 
 ## Tentative Schedule
