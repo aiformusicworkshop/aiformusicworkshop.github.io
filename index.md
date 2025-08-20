@@ -5,6 +5,18 @@
 
 ---
 
+<details markdown=1><summary markdown="span">Shortcuts</summary>
+- [Description](#description)
+- [Call for Papers & Demos](#cfp)
+- [Schedule](#schedule)
+- [Invited Speakers](#speakers)
+- [Organizers](#organizers)
+- [Program Committee](#committee)
+- [Previous Iterations](#iterations)
+</details>
+
+---
+
 ## Description
 
 This workshop explores the dynamic intersection of AI and music, a rapidly evolving field where creativity meets computation. Music is one of the most universal and emotionally resonant forms of human expression. Producing, understanding, and processing music presents unique challenges for machine learning due to its creative, expressive, subjective, and interactive nature. According to the IFPI Global Music Report 2025 published by the International Federation of the Phonographic Industry (IFPI), "*AI will be one of the defining issues of our time and record companies have embraced its potential to enhance artist creativity and develop new and exciting fan experiences.*" AI has tremendous impacts on all aspects of music, across composition, production, performance, distribution, and education. Recent years have also seen rapidly growing interests among the machine learning community in AI music research. In this first NeurIPS workshop dedicated to music since 2011, we want to bring together the music and AI communities to facilitate a timely, interdisciplinary conversation on the status and future of AI for music.
@@ -15,7 +27,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 ---
 
-## Call for Papers & Demos
+## Call for Papers & Demos {#cfp}
 
 We invite contributions from the community on relevant topics of AI and music, *broadly defined*. This workshop is **non-archival**{:.accent}. Accepted papers will be posted on the workshop website but will not be published or archived. We welcome work that is under review or to be submitted to other venues.
 
@@ -90,7 +102,7 @@ For demo submissions, you may provide a short video recording (10 minutes maximu
 
 ---
 
-## Tentative Schedule
+## Schedule (*tentative*) {#schedule}
 
 <div class="table-wrapper schedule" markdown="block">
 
@@ -116,7 +128,7 @@ For demo submissions, you may provide a short video recording (10 minutes maximu
 
 ---
 
-## Invited Speakers
+## Invited Speakers {#speakers}
 
 | [![Chris Donahue](headshots/donahue.jpg){:.headshot}](https://chrisdonahue.com/) | **[Chris Donahue](https://chrisdonahue.com/)** is an Assistant Professor in the Computer Science Department at the Carnegie Mellon University, and a part-time research scientist at Google DeepMind. His research goal is to develop and responsibly deploy generative AI for music and creativity, thereby unlocking and augmenting human creative potential. His research has been featured in live performances by professional musicians like [The Flaming Lips](https://magenta.tensorflow.org/fruitgenie), and also empowers hundreds of daily users to convert their favorite music into interactive content through his website [Beat Sage](https://www.roadtovr.com/beat-saber-project-uses-ai-generate-custom-beat-maps-song/). |
 | [![Shlomo Dubnov](headshots/dubnov.jpg){:.headshot}](http://dub.ucsd.edu/) | **[Shlomo Dubnov](http://dub.ucsd.edu/)** is a Professor in the Music Department and Affiliate Professor in Computer Science and Engineering at the University of California San Diego. He is also the Director of the Center for Research in Entertainment and Learning at Qualcomm Institute. He is best known for his research on poly-spectral analysis of musical timbre and inventing the method of Music Information Dynamics with applications in Computer Audition and Machine improvisation. |
@@ -137,7 +149,7 @@ For demo submissions, you may provide a short video recording (10 minutes maximu
 
 ---
 
-## Program Committee
+## Program Committee {#committee}
 
 (In alphabetical order)
 
@@ -145,7 +157,7 @@ Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Anni
 
 ---
 
-## Previous Iterations
+## Previous Iterations {#iterations}
 
 - [AAAI 2025](https://ai4musicians.org/2025aaai.html)
 - [ICME 2025](https://ai4musicians.org/2025icme.html)
