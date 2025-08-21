@@ -109,9 +109,9 @@ For demo submissions, you may provide a short video recording (10 minutes maximu
 |||
 |:-:|--|
 | 8:20  - 8:30  | Welcoming Remarks                                      |
-| 8:30  - 9:00  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} |
+| 8:30  - 9:00  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google DeepMind)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} |
 | 9:00  - 9:30  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} |
-| 9:30  - 10:00 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
+| 9:30  - 10:00 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google DeepMind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
 | 10:00 - 10:30 | Coffee Break                                           |
 | 10:30 - 11:00 | **Spotlight Presentations**                            |
 | 11:00 - 12:00 | **Poster & Demo Session**                              |
