@@ -43,18 +43,36 @@ details {
 }
 
 .gold-sponsor {
+  text-decoration: underline;
+  text-decoration-color: #FFD700;
+  text-decoration-thickness: 3px;
+}
+
+.silver-sponsor {
+  text-decoration: underline;
+  text-decoration-color: #C0C0C0;
+  text-decoration-thickness: 3px;
+}
+
+.bronze-sponsor {
+  text-decoration: underline;
+  text-decoration-color: #CD7F32;
+  text-decoration-thickness: 3px;
+}
+
+.gold-sponsor-logo {
   max-width: 200px;
   max-height: 100px;
   margin-right: 20px;
 }
 
-.silver-sponsor {
+.silver-sponsor-logo {
   max-width: 150px;
   max-height: 75px;
   margin-right: 20px;
 }
 
-.bronze-sponsor {
+.bronze-sponsor-logo {
   max-width: 100px;
   max-height: 50px;
   margin-right: 20px;
