@@ -29,7 +29,6 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 ---
 
 ## 📢 Call for Papers & Demos {#cfp}
-<!-- <i class="fa-solid fa-bullhorn"></i> -->
 
 We invite contributions from the community on relevant topics of AI and music, *broadly defined*. This workshop is **non-archival**{:.accent}. Accepted papers will be posted on the workshop website but will not be published or archived. We welcome work that is under review or to be submitted to other venues.
 
@@ -131,7 +130,6 @@ For demo submissions, you may provide a short video recording (10 minutes maximu
 ---
 
 ## 💡 Invited Speakers {#speakers}
-<!-- <i class="fa-solid fa-lightbulb"></i> -->
 
 | [![Chris Donahue](headshots/donahue.jpg){:.headshot}](https://chrisdonahue.com/) | **[Chris Donahue](https://chrisdonahue.com/)** is an Assistant Professor in the Computer Science Department at the Carnegie Mellon University, and a part-time research scientist at Google DeepMind. His research goal is to develop and responsibly deploy generative AI for music and creativity, thereby unlocking and augmenting human creative potential. His research has been featured in live performances by professional musicians like [The Flaming Lips](https://magenta.tensorflow.org/fruitgenie), and also empowers hundreds of daily users to convert their favorite music into interactive content through his website [Beat Sage](https://www.roadtovr.com/beat-saber-project-uses-ai-generate-custom-beat-maps-song/). |
 | [![Shlomo Dubnov](headshots/dubnov.jpg){:.headshot}](http://dub.ucsd.edu/) | **[Shlomo Dubnov](http://dub.ucsd.edu/)** is a Professor in the Music Department and Affiliate Professor in Computer Science and Engineering at the University of California San Diego. He is also the Director of the Center for Research in Entertainment and Learning at Qualcomm Institute. He is best known for his research on poly-spectral analysis of musical timbre and inventing the method of Music Information Dynamics with applications in Computer Audition and Machine improvisation. |
@@ -143,7 +141,6 @@ For demo submissions, you may provide a short video recording (10 minutes maximu
 ---
 
 ## 🤩 Organizers {#organizers}
-<!-- <i class="fa-solid fa-people-group"></i> -->
 
 | [![Hao-Wen (Herman) Dong](headshots/dong.jpg){:.headshot}](https://hermandong.com/) | **[Hao-Wen (Herman) Dong](https://hermandong.com/)** is an Assistant Professor in the Department of Performing Arts Technology at the University of Michigan. Herman's research aims to augment human creativity with machine learning. He develops human-centered generative AI technology that can be integrated into the professional creative workflow, with a focus on music, audio and video content creation. His long-term goal is to lower the barrier of entry for content creation and democratize professional content creation for everyone. Herman received his PhD degree in Computer Science from University of California San Diego, where he worked with Julian McAuley and Taylor Berg-Kirkpatrick. His research has been recognized by the UCSD CSE Doctoral Award for Excellence in Research, KAUST Rising Stars in AI, UChicago and UCSD Rising Stars in Data Science, ICASSP Rising Stars in Signal Processing, and UCSD GPSA Interdisciplinary Research Award. |
 | [![Zachary Novack](headshots/novack.jpg){:.headshot}](https://zacharynovack.github.io/) | **[Zachary Novack](https://zacharynovack.github.io/)** is a PhD student in the Computer Science and Engineering department at the University of California San Diego, advised by Dr. Julian McAuley and Dr. Taylor Berg-Kirkpatrick. His research focuses on controllable and efficient music/audio generation, as well as audio reasoning in LLMs. His long-term goal is to design bespoke creative tools for musicians and everyday users alike with adaptive control and real-time interaction, collaborating with top industry labs such as Adobe Research, Stability AI, and Sony AI. Zachary's work has been recognized at numerous top-tier AI conferences, including DITTO (ICML 2024 Oral), *Presto!* (ICLR 2025 Spotlight), CoLLAP (ICASSP 2025 Oral). Outside of academia, Zachary is active within the southern California marching arts community, working as an educator for the 11-time world class finalist percussion ensemble POW Percussion. |
