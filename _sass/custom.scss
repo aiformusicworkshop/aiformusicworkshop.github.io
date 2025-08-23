@@ -2,7 +2,7 @@ details {
   margin-bottom: 20px;
 }
 
-.vcenter {
+.sponsor-row {
   display: flex;
   align-items: center;
 }
@@ -28,9 +28,20 @@ details {
   white-space: nowrap;
 }
 
+.row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 .headshot {
   max-width: 120px;
   border-radius: 50%;
+  margin-right: 20px;
+}
+
+.bio p {
+  margin-bottom: 0px;
 }
 
 .schedule th {
@@ -69,18 +80,21 @@ details {
   max-width: 200px;
   max-height: 40px;
   margin-right: 40px;
+  margin-bottom: 20px;
 }
 
 .silver-sponsor-logo {
   max-width: 150px;
   max-height: 30px;
   margin-right: 30px;
+  margin-bottom: 20px;
 }
 
 .bronze-sponsor-logo {
   max-width: 100px;
   max-height: 20px;
   margin-right: 20px;
+  margin-bottom: 20px;
 }
 
 @media print, screen and (max-width: 720px) {
@@ -88,5 +102,13 @@ details {
     columns: 1;
     -webkit-columns: 1;
     -moz-columns: 1;
+  }
+
+  .row {
+    display: block;
+  }
+
+  .sponsor-row {
+    display: block;
   }
 }
