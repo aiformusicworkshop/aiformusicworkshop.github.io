@@ -160,9 +160,11 @@ Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Anni
 
 ## 🤝 Sponsors
 
-### **Gold Sponsor**{:.gold-sponsor}
+### **Gold Sponsors**{:.gold-sponsor}
 
 [![suno](sponsors/suno.png){:.gold-sponsor-logo}](https://suno.com/)
+[![moises](sponsors/moises.png){:.gold-sponsor-logo}](https://moises.ai/)
+{:.vcenter}
 
 ---
 
