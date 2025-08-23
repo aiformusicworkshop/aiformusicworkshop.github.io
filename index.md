@@ -158,7 +158,7 @@ Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Anni
 
 ---
 
-## 🤝 Sponsors
+## 🤝 Sponsors {#sponsors}
 
 ### **Gold Sponsors**{:.gold-sponsor}
 
