@@ -7,12 +7,12 @@
 
 <details markdown=1><summary markdown="span">Shortcuts</summary>
 - [ℹ️ Description](#description)
-- [📢 Call for Papers & Demos](#cfp)
 - [📅 Schedule](#schedule)
 - [💡 Invited Speakers](#speakers)
 - [🤩 Organizers](#organizers)
 - [🔍 Program Committee](#committee)
 - [🤝 Sponsors](#sponsors)
+- [📢 Call for Papers & Demos](#cfp)
 - [🔄 Previous Iterations](#iterations)
 </details>
 
@@ -25,81 +25,6 @@ This workshop explores the dynamic intersection of AI and music, a rapidly evolv
 The goal of this workshop is twofold: First, we aim to explore the latest advancements of AI's applications for music, from analysis, creation, performance, production, retrieval to music education and therapy. Second, we aim to discuss the impacts and implications of AI in music, including AI's impacts on the music industry, musician community, and music education as well as ethical, legal and societal implications of AI music and AI's implications for future musicians. We will emphasize networking and community building in this workshop to generate a sustainable research momentum.
 
 The workshop will feature invited talks, contributed spotlight presentations, a poster and demo session, a panel discussion, and round table discussions. We have invited six speakers from a diverse background who will bring interdisciplinary perspectives to the audience. We will solicit original 4-page papers from the community. We will also call for demos accompanied by 2-page extended abstracts to accommodate the various formats AI music innovations may take.
-
----
-
-## 📢 Call for Papers & Demos {#cfp}
-
-We invite contributions from the community on relevant topics of AI and music, *broadly defined*. This workshop is **non-archival**{:.accent}. Accepted papers will be posted on the workshop website but will not be published or archived. We welcome work that is under review or to be submitted to other venues.
-
-**Submission portal**{:.accent}: [openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Music](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Music)
-
-### Call for Papers
-
-We call for original **4-page papers**{:.accent} (excluding references) on relevant topics of AI and music, broadly defined. We encourage and welcome papers discussing initial concepts, early results, and promising directions. All accepted papers will be presented in the poster and demo session. A small number of papers will be selected for 10-min spotlight presentations. The review process will be **double-blind**{:.accent}.
-
-### Call for Demos
-
-We call for demos of novel AI music tools and artistic work. Each demo submission will be accompanied by a **2-page extended abstract**{:.accent} (excluding references). We encourage the authors to submit an **optional short video recording**{:.accent} (no longer than 10 min) as supplementary materials. The selected demos will each be assigned a poster board in the poster and demo session. The goal of the demo session is to accommodate the various forms that novel AI music innovations may take, and thus we will adopt a **single-blind**{:.accent} review process.
-
-### Important Dates
-
-The following due dates apply to both paper and demo submissions:
-
-- **Submission Deadline:**{:.accent} ~~August 22, AoE~~{:style="text-decoration-thickness: 3px; text-decoration-color: #9F2936"} **August 29, AoE**{:.red}
-- Author Notification Date: September 22, AoE
-- Camera-ready Due: November 7, AoE
-
-### Topics of Interest
-
-Topics of interest include, but not limited to:
-
-- **Applications of AI in music**
-  - Music theory & musicology
-  - Optical music recognition
-  - Music transcription
-  - Music generation
-  - Sound design & soundtrack generation
-  - Singing voice synthesis
-  - Lyric generation and translation
-  - Musical instrument design
-  - Robotic musicianship
-  - Human-AI music co-creativity
-  - Music production
-  - Music performance modeling
-  - Music information retrieval
-  - Music recommender systems
-  - Music education
-  - Music therapy
-  {:.two-column}
-- **Impacts & implications of AI in music**
-  - Impacts on music industry
-  - Impacts on the musician community
-  - Impacts on music education
-  - Implications for future musicians
-  - Ethical, legal & societal implications of AI music
-  - Challenges in commercializing AI music tools
-  - Emerging opportunities of AI music
-  {:.two-column}
-
-### Formatting Guide {#formatting}
-
-Please format your paper using the NeurIPS 2025 [LaTeX template](https://neurips.cc/Conferences/2025/CallForPapers).
-
-1. Set the workshop title on line 40:&emsp;`\workshoptitle{AI for Music}`
-2. For submission, set the options as follows:
-
-   - Papers:&emsp;`\usepackage[dblblindworkshop]{neurips_2025}`
-   - Demos:&emsp;`\usepackage[sglblindworkshop]{neurips_2025}`
-
-3. For camera-ready, set the options as follows:
-
-   - Papers:&emsp;`\usepackage[dblblindworkshop,final]{neurips_2025}`
-   - Demos:&emsp;`\usepackage[sglblindworkshop,final]{neurips_2025}`
-
-Note that you do NOT need to include the NeurIPS paper checklist. You may include technical appendices (after the references in the main PDF file) and supplementary material (as a ZIP file up to 100 MB). However, it is up to the reviewer to determine if they want to read them.
-
-For demo submissions, you may provide a short video recording (10 minutes maximum) to support your work. We recommend you to provide a YouTube link (or equivalent) to the video recording. Please make sure you have set the visibility to *public* or *unlisted* on YouTube. Less preferably, you may upload the video recording as an MP4 file (100 MB maximum).
 
 ---
 
@@ -230,6 +155,81 @@ Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Anni
   <a href="https://suno.com/"><img class="gold-sponsor-logo" src="sponsors/suno.png" alt="Suno"></a>
   <a href="https://moises.ai/"><img class="gold-sponsor-logo" src="sponsors/moises.png" alt="Moises"></a>
 </div>
+
+---
+
+## 📢 Call for Papers & Demos {#cfp}
+
+We invite contributions from the community on relevant topics of AI and music, *broadly defined*. This workshop is **non-archival**{:.accent}. Accepted papers will be posted on the workshop website but will not be published or archived. We welcome work that is under review or to be submitted to other venues.
+
+**Submission portal**{:.accent}: [openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Music](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Music)
+
+### Call for Papers
+
+We call for original **4-page papers**{:.accent} (excluding references) on relevant topics of AI and music, broadly defined. We encourage and welcome papers discussing initial concepts, early results, and promising directions. All accepted papers will be presented in the poster and demo session. A small number of papers will be selected for 10-min spotlight presentations. The review process will be **double-blind**{:.accent}.
+
+### Call for Demos
+
+We call for demos of novel AI music tools and artistic work. Each demo submission will be accompanied by a **2-page extended abstract**{:.accent} (excluding references). We encourage the authors to submit an **optional short video recording**{:.accent} (no longer than 10 min) as supplementary materials. The selected demos will each be assigned a poster board in the poster and demo session. The goal of the demo session is to accommodate the various forms that novel AI music innovations may take, and thus we will adopt a **single-blind**{:.accent} review process.
+
+### Important Dates
+
+The following due dates apply to both paper and demo submissions:
+
+- **Submission Deadline:**{:.accent} ~~August 22, AoE~~{:style="text-decoration-thickness: 3px; text-decoration-color: #9F2936"} **August 29, AoE**{:.red}
+- Author Notification Date: September 22, AoE
+- Camera-ready Due: November 7, AoE
+
+### Topics of Interest
+
+Topics of interest include, but not limited to:
+
+- **Applications of AI in music**
+  - Music theory & musicology
+  - Optical music recognition
+  - Music transcription
+  - Music generation
+  - Sound design & soundtrack generation
+  - Singing voice synthesis
+  - Lyric generation and translation
+  - Musical instrument design
+  - Robotic musicianship
+  - Human-AI music co-creativity
+  - Music production
+  - Music performance modeling
+  - Music information retrieval
+  - Music recommender systems
+  - Music education
+  - Music therapy
+  {:.two-column}
+- **Impacts & implications of AI in music**
+  - Impacts on music industry
+  - Impacts on the musician community
+  - Impacts on music education
+  - Implications for future musicians
+  - Ethical, legal & societal implications of AI music
+  - Challenges in commercializing AI music tools
+  - Emerging opportunities of AI music
+  {:.two-column}
+
+### Formatting Guide {#formatting}
+
+Please format your paper using the NeurIPS 2025 [LaTeX template](https://neurips.cc/Conferences/2025/CallForPapers).
+
+1. Set the workshop title on line 40:&emsp;`\workshoptitle{AI for Music}`
+2. For submission, set the options as follows:
+
+   - Papers:&emsp;`\usepackage[dblblindworkshop]{neurips_2025}`
+   - Demos:&emsp;`\usepackage[sglblindworkshop]{neurips_2025}`
+
+3. For camera-ready, set the options as follows:
+
+   - Papers:&emsp;`\usepackage[dblblindworkshop,final]{neurips_2025}`
+   - Demos:&emsp;`\usepackage[sglblindworkshop,final]{neurips_2025}`
+
+Note that you do NOT need to include the NeurIPS paper checklist. You may include technical appendices (after the references in the main PDF file) and supplementary material (as a ZIP file up to 100 MB). However, it is up to the reviewer to determine if they want to read them.
+
+For demo submissions, you may provide a short video recording (10 minutes maximum) to support your work. We recommend you to provide a YouTube link (or equivalent) to the video recording. Please make sure you have set the visibility to *public* or *unlisted* on YouTube. Less preferably, you may upload the video recording as an MP4 file (100 MB maximum).
 
 ---
 
