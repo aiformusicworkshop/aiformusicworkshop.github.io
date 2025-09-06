@@ -1,6 +1,6 @@
 # **NeurIPS 2025 Workshop on AI for Music:**{:.accent2}<br>*Where Creativity Meets Computation*{:.accent}
 
-> December 6 or 7 @ San Diego Convention Center\\
+> December 7 @ Room 27, San Diego Convention Center\\
 > Contact: <aiformusicworkshop@gmail.com>
 
 ---
@@ -34,21 +34,21 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 |||
 |:-:|--|
-| 8:20  - 8:30  | Welcoming Remarks                                      |
-| 8:30  - 9:00  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google DeepMind)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} |
+| 8:15  - 8:30  | Welcoming Remarks                                      |
+| 8:30  - 9:00  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} |
 | 9:00  - 9:30  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} |
-| 9:30  - 10:00 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google DeepMind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
-| 10:00 - 10:30 | Coffee Break                                           |
-| 10:30 - 11:00 | **Spotlight Presentations**                            |
-| 11:00 - 12:00 | **Poster & Demo Session**                              |
-| 12:00 - 1:30  | Lunch Break                                            |
-| 1:30  - 2:00  | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
+| 9:30  - 10:00 | **Spotlight Presentations**                            |
+| 10:00 - 11:00 | ☕Coffee Break + **Posters & Demos**                   |
+| 11:00 - 11:30 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
+| 11:30 - 12:00 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
+| 12:00 - 1:30  | 🍴Lunch Break                                          |
+| 1:30  - 2:00  | **Awards & Lightning Talks**                           |
 | 2:00  - 2:30  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} |
 | 2:30  - 3:00  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Recommendation and Personalization for Music*{:.accent} |
-| 3:00  - 3:30  | Coffee Break                                           |
-| 3:30  - 4:15  | **Panel Discussion** (with invited speakers)           |
-| 4:15  - 5:00  | **Round Table Discussions** (themed group discussions) |
-| 5:00  - 5:10  | Closing Remarks                                        |
+| 3:00  - 4:00  | ☕Coffee Break + **Posters & Demos**                   |
+| 4:00  - 4:45  | **Panel Discussion** (with invited speakers)           |
+| 4:45  - 5:30  | **Round Table Discussions** (themed group discussions) |
+| 5:30  - 5:45  | Closing Remarks                                        |
 
 </div>
 
