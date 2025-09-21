@@ -154,6 +154,7 @@ Erfun Ackley, Julia Barnett, Ke Chen, Yu-Hua Chen, Benjamin Shiue-Hal Chou, Anni
 <div class="sponsor-row">
   <a href="https://suno.com/"><img class="gold-sponsor-logo" src="sponsors/suno.png" alt="Suno"></a>
   <a href="https://moises.ai/"><img class="gold-sponsor-logo" src="sponsors/moises.png" alt="Moises"></a>
+  <a href="https://soundpatrol.com/"><img class="gold-sponsor-logo" src="sponsors/soundpatrol.png" alt="SoundPatrol"></a>
 </div>
 
 ---
