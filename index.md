@@ -158,6 +158,12 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
   <a href="https://soundpatrol.com/"><img class="gold-sponsor-logo" src="sponsors/soundpatrol.png" alt="SoundPatrol"></a>
 </div>
 
+### **Silver Sponsors**{:.silver-sponsor}
+
+<div class="sponsor-row">
+  <a href="https://producer.ai/"><img class="silver-sponsor-logo" src="sponsors/producerai.png" alt="Suno"></a>
+</div>
+
 ---
 
 ## 📢 Call for Papers & Demos {#cfp}
