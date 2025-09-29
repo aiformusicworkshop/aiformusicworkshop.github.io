@@ -1,7 +1,8 @@
 # **NeurIPS 2025 Workshop on AI for Music:**{:.accent2}<br>*Where Creativity Meets Computation*{:.accent}
 
 > December 7 @ [Room 27](location.png), [San Diego Convention Center](https://maps.app.goo.gl/gTF1wUrJ5vtSeEUU6)\\
-> Contact: <aiformusicworkshop@gmail.com>
+> Contact: <aiformusicworkshop@gmail.com>\\
+> [Register here!](https://nips.cc/Register/view-registration)
 
 ---
 
