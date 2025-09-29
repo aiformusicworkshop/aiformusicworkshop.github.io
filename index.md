@@ -2,7 +2,7 @@
 
 > December 7 @ [Room 27](location.png), [San Diego Convention Center](https://maps.app.goo.gl/gTF1wUrJ5vtSeEUU6)\\
 > Contact: <aiformusicworkshop@gmail.com>\\
-> [Register here!](https://nips.cc/Register/view-registration)
+> [Register here!](https://nips.cc/Register/view-registration) (A "Workshops & Competitions" pass is required to attend the workshop.)
 
 ---
 
