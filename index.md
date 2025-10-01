@@ -155,7 +155,10 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
 <div class="sponsor-row">
   <a href="https://suno.com/"><img class="gold-sponsor-logo" src="sponsors/suno.png" alt="Suno"></a>
   <a href="https://moises.ai/"><img class="gold-sponsor-logo" src="sponsors/moises.png" alt="Moises"></a>
+</div>
+<div class="sponsor-row">
   <a href="https://soundpatrol.com/"><img class="gold-sponsor-logo" src="sponsors/soundpatrol.png" alt="SoundPatrol"></a>
+  <a href="https://deepmind.google/"><img class="gold-sponsor-logo" src="sponsors/deepmind.png" alt="Google Deepmind"></a>
 </div>
 
 ### **Silver Sponsors**{:.silver-sponsor}
