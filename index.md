@@ -44,7 +44,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 | 11:00 - 11:30 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
 | 11:30 - 12:00 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
 | 12:00 - 1:00  | 🍴Lunch Break                                          |
-| 1:00  - 1:30  | Lightning Talks                                        |
+| 1:00  - 1:30  | **Lightning Talks**                                    |
 | 1:30  - 2:00  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} |
 | 2:00  - 2:30  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Recommendation and Personalization for Music*{:.accent} |
 | 2:30  - 3:50  | ☕Coffee Break + **[Posters & Demos II](#papers)**     |
