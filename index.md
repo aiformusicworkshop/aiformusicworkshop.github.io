@@ -13,7 +13,7 @@
 - [🤩 Organizers](#organizers)
 - [🔍 Program Committee](#committee)
 - [🤝 Sponsors](#sponsors)
-- [📜 Accepted Papers & Demos](#papers)
+- [📜 Accepted Papers & Demos](#papers_demos)
 - [📢 Call for Papers & Demos](#cfp)
 - [🔄 Previous Iterations](#iterations)
 </details>
@@ -36,20 +36,21 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 |||
 |:-:|--|
-| 8:00  - 8:10  | Welcoming Remarks                                      |
+| 8:00  - 8:10  | Welcoming Remarks                                         |
 | 8:10  - 8:40  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google Deepmind)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} |
 | 8:40  - 9:10  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} |
-| 9:10  - 10:30 | ☕Coffee Break + **[Posters & Demos I](#papers)**      |
-| 10:30 - 11:00 | **Awards & Spotlight Presentations**                   |
-| 11:00 - 11:30 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
-| 11:30 - 12:00 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
-| 12:00 - 1:00  | 🍴Lunch Break (🥪box lunch provided)                  |
-| 1:00  - 1:30  | **Lightning Talks**                                    |
-| 1:30  - 2:00  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} |
-| 2:00  - 2:30  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Recommendation and Personalization for Music*{:.accent} |
-| 2:30  - 3:50  | ☕Coffee Break + **[Posters & Demos II](#papers)**     |
-| 3:50  - 4:50  | **Panel Discussion** (with invited speakers)           |
-| 4:50  - 5:00  | Closing Remarks                                        |
+| 9:10  - 10:10 | ☕Coffee Break + **[Posters & Demos I](#papers_demos)**   |
+| 10:10 - 10:40 | **Lightning Talks**                                       |
+| 10:40 - 11:10 | **Awards & Spotlight Presentations**                      |
+| 11:10 - 11:40 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
+| 11:40 - 12:10 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
+| 12:10 - 1:10  | 🍴Lunch Break (🥪box lunch provided)                     |
+| 1:10  - 2:00  | **[Posters & Demos II](#papers_demos)**                   |
+| 2:00  - 2:30  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} |
+| 2:30  - 3:00  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Recommendation and Personalization for Music*{:.accent} |
+| 3:00  - 4:00  | ☕Coffee Break + **[Posters & Demos III](#papers_demos)** |
+| 4:00  - 4:50  | **Panel Discussion** (with invited speakers)              |
+| 4:50  - 5:00  | Closing Remarks                                           |
 
 </div>
 
@@ -169,11 +170,11 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
 
 ---
 
-## 📜 Accepted Papers & Demos {#papers}
+## 📜 Accepted Papers & Demos {#papers_demos}
 
 **Acceptance rate: 69%** (74/108) \| Paper: 71% (61/85) \| Demo: 61% (14/23)
 
-### Accepted Papers
+### Accepted Papers {#papers}
 
 {% for paper in site.data.papers %}
 {% if paper.last.track == "Paper Track" %}
@@ -181,7 +182,7 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
 {% endif %}
 {% endfor %}
 
-### Accepted Demos
+### Accepted Demos {#demos}
 
 {% for paper in site.data.papers %}
 {% if paper.last.track == "Demo Track" %}
