@@ -177,7 +177,9 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
 ### Accepted Papers {#papers}
 
 {% for paper in site.data.papers %}
-{% if paper.last.track == "Paper Track" %}
+{% if paper.first == "14" %}
+- **{{ paper.last.title }}**<br>Anonymous
+{% elsif paper.last.track == "Paper Track" %}
 - **{{ paper.last.title }}**<br>{{ paper.last.authors }}
 {% endif %}
 {% endfor %}
