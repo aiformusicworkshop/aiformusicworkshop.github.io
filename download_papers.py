@@ -1,5 +1,5 @@
-"""Fetch all author names from OpenReview."""
-import json
+"""Download all papers from OpenReview."""
+import pathlib
 
 import openreview
 import getpass
@@ -7,7 +7,11 @@ import getpass
 VENUE = "NeurIPS.cc/2025/Workshop/AI4Music"
 
 def main():
-    """Fetch all author names from OpenReview."""
+    """Download all papers from OpenReview."""
+    # Make sure the output directory exists
+    out_dir = pathlib.Path("papers")
+    out_dir.mkdir(exist_ok=True)
+
     # Prompt for OpenReview username (email) and password
     username = input("Your OpenReview username (email): ")
     password = getpass.getpass("Your OpenReview password: ")
@@ -22,9 +26,6 @@ def main():
     # Fetch all papers
     papers = client.get_all_notes(content={"venueid": VENUE})
 
-    # Create a dictionary to store the output
-    out_dict = {}
-
     # Iterate over all the papers
     for paper in papers:
         # Find the submission number
@@ -35,18 +36,10 @@ def main():
         if sub_num is None:
             raise ValueError(f"Could not find submission number for paper ID {paper.id}")
 
-        # Store the paper metadata in the output dictionary
-        out_dict[sub_num] = {
-            "id": paper.id,
-            "track": paper.content["track"]["value"] if "track" in paper.content else "Paper Track",
-            "title": paper.content['title']['value'].replace("\t", " "),
-            "authors": ", ".join(paper.content["authors"]["value"]).replace("\t", " ")
-        }
-
-    # Write the output dictionary to a JSON file
-    out_dict = dict(sorted(out_dict.items()))
-    with open('papers.json', 'w', encoding='utf-8') as f:
-        json.dump(out_dict, f, ensure_ascii=False, indent=4)
+        # Download the paper PDF
+        paper_id = paper.id
+        with open(f"{out_dir}/{sub_num:03d}.pdf", "wb") as f:
+            f.write(client.get_pdf(id=paper_id))
 
 if __name__ == "__main__":
     main()
