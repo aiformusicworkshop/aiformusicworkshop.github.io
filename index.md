@@ -36,7 +36,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 |||
 |:-:|--|
-| 8:00  - 8:10  | Welcoming Remarks                                         |
+| 8:00  - 8:10  | Opening Remarks                                           |
 | 8:10  - 8:40  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google Deepmind)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} |
 | 8:40  - 9:10  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} |
 | 9:10  - 10:10 | ☕Coffee Break + **[Posters & Demos I](#papers_demos)**   |
