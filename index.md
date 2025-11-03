@@ -46,7 +46,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 | 11:40 - 12:10 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
 | 12:10 - 1:10  | 🍴Lunch Break (🥪box lunch provided)                     |
 | 1:10  - 2:00  | **[Posters & Demos II](#papers_demos)**                   |
-| 2:00  - 2:30  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Recommendation and Personalization for Music*{:.accent} |
+| 2:00  - 2:30  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Opportunities and Challenges in Music Recommendation*{:.accent} |
 | 2:30  - 3:00  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} |
 | 3:00  - 4:00  | ☕Coffee Break + **[Posters & Demos III](#papers_demos)** |
 | 4:00  - 4:50  | **Panel Discussion** (with invited speakers)              |
@@ -89,7 +89,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 <div class="row">
   <a href="https://cseweb.ucsd.edu/~jmcauley/"><img class="headshot" src="headshots/mcauley.jpg" alt="Julian McAuley"></a>
   <div class="bio" markdown=1>
-  **[Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)** is a Professor in the Department of Computer Science and Engineering at the University of California San Diego. He works on applications of machine learning to problems involving personalization, and teaches classes on personalized recommendation. He has also been leading the [MUSAIC](https://ucsd-musaic.github.io/) team at UCSD. His lab has significant contributions to machine music understanding, symbolic music processing, music generation, NLP for music, and audiovisual learning.
+  **[Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)** is a Professor in the Department of Computer Science and Engineering at the University of California San Diego. He works on applications of machine learning to problems involving personalization, and teaches classes on personalized recommendation. He likes bicycling and baroque keyboard.
   </div>
 </div>
 
