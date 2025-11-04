@@ -172,7 +172,7 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
 
 ## 📜 Accepted Papers & Demos {#papers_demos}
 
-**Acceptance rate: 69%** (74/108) \| Paper: 71% (60/85) \| Demo: 61% (14/23)
+**Acceptance rate: 68%** (73/108) \| Paper: 69% (59/85) \| Demo: 61% (14/23)
 
 ### Accepted Papers {#papers}
 

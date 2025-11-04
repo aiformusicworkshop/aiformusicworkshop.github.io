@@ -46,7 +46,6 @@ Phillip Long, Hao-Wen Dong, Julian McAuley, Zachary Novack
 Yiwen Zhao, Jiatong Shi, Jinchuan Tian, Yuxun Tang, Jiarui Hai, Jionghao Han, Shinji Watanabe
 Ashwin Nagarajan, Hao-Wen Dong
 Jingwei Zhao, Ziyu Wang, Gus Xia, Ye Wang
-Yixiao Zhang
 Atharva Mehta, Shivam Chauhan, Megha Sharma, Gus Xia, Kaustuv Kanti Ganguli, Nishanth Chandran, Zeerak Talat, Monojit Choudhury
 Jakub Proboszcz, Paweł Kochański, Karol Korszun, Katarzyna Stankiewicz, Donato Crisostomi, Giorgio Strano, Emanuele Rodolà, Kamil Deja, Jan Dubiński
 Wonil Kim, Hyeongseok Wi, Seungsoon Park, Taejun Kim, Sangeun Keum, Keunhyoung Kim, Taewan Kim, Jongmin Jung, Taehyoung Kim, Gaetan Guerrero, Mael Le Goff, Julie Po, Dongjoo Moon, Juhan Nam, Jongpil Lee
