@@ -30,7 +30,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 ---
 
-## 📅 Schedule (*tentative*) {#schedule}
+## 📅 Schedule {#schedule}
 
 <div class="table-wrapper schedule" markdown="block">
 
@@ -41,7 +41,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 | 8:40  - 9:10  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} |
 | 9:10  - 10:10 | ☕Coffee Break + **[Posters & Demos I](#papers_demos)**   |
 | 10:10 - 10:40 | **Lightning Talks**                                       |
-| 10:40 - 11:10 | **Awards & Spotlight Presentations**                      |
+| 10:40 - 11:10 | **Oral Presentations**<br>*StylePitcher: Generating Style-Following, Expressive Pitch Curves for Versatile Singing Tasks*{:.accent}<br>Jingyue Huang, Qihui Yang, Fei-Yueh Chen, Randal Leistikow, Yongyi Zang<br>*E-Motion Baton: Human-in-the-Loop Music Generation via Expression and Gesture*{:.accent}<br>Mingchen Ma, Stephen Ni-Hahn, Simon Mak, Yue Jiang, Cynthia Rudin |
 | 11:10 - 11:40 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
 | 11:40 - 12:10 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
 | 12:10 - 1:10  | 🍴Lunch Break (🥪box lunch provided)                     |
