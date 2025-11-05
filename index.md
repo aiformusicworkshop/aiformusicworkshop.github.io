@@ -43,7 +43,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 | 10:10 - 10:40 | **Lightning Talks**                                       |
 | 10:40 - 11:10 | **Oral Presentations**<br>*StylePitcher: Generating Style-Following, Expressive Pitch Curves for Versatile Singing Tasks*{:.accent}<br>Jingyue Huang, Qihui Yang, Fei-Yueh Chen, Randal Leistikow, Yongyi Zang<br>*E-Motion Baton: Human-in-the-Loop Music Generation via Expression and Gesture*{:.accent}<br>Mingchen Ma, Stephen Ni-Hahn, Simon Mak, Yue Jiang, Cynthia Rudin |
 | 11:10 - 11:40 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
-| 11:40 - 12:10 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Assisting Music Performance through AI*{:.accent} |
+| 11:40 - 12:10 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Design of AI-based Interactive Music Performance Systems in the Wild*{:.accent} |
 | 12:10 - 1:10  | 🍴Lunch Break (🥪box lunch provided)                     |
 | 1:10  - 2:00  | **[Posters & Demos II](#papers_demos)**                   |
 | 2:00  - 2:30  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Opportunities and Challenges in Music Recommendation*{:.accent} |
@@ -82,7 +82,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 <div class="row">
   <a href="https://www.linkedin.com/in/akira-maezawa-7662a655/"><img class="headshot" src="headshots/maezawa.jpg" alt="Akira Maezawa"></a>
   <div class="bio" markdown=1>
-  **[Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/)** is a Principal Senior Engineer at Yamaha Corporation. He has been leading the music informatics applications lab in the MINA Lab based in Yokohama. He works on AI music ensemble technology that will allow AI to perform together with people, and technology that predicts musical metadata – such as beats – from musical acoustic signals. He also interacts with customers at experience-based installations and hold discussions at universities and with artists, to see how people are actually using the technologies we create in the real world.
+  **[Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/)** leads music informatics research group MINA Lab at Yamaha, where he and his team have developed music technologies integrated into mobile applications, digital instruments, and interactive systems featured in concert events and installations around the world. The projects he has led have earned numerous awards and distinctions, including the Entertainment Lions for Music at the Cannes Lions International Festival of Creativity and the Research and Engineering Award from the Information Processing Society of Japan.
   </div>
 </div>
 
