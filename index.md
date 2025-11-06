@@ -75,7 +75,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 <div class="row">
   <a href="https://ilariamanco.com/"><img class="headshot" src="headshots/manco.jpg" alt="Ilaria Manco"></a>
   <div class="bio" markdown=1>
-  **[Ilaria Manco](https://ilariamanco.com/)** is a Research Scientist at Google Deepmind. She works on music understanding and generative models for interactive, real-time music creation. Her Phd dissertation focused on developing multimodal deep learning methods to enable music understanding by learning representations from audio and language.
+  **[Ilaria Manco](https://ilariamanco.com/)** is a Research Scientist in the Magenta team at Google DeepMind. Her research spans music generation and understanding, with a current focus on new forms of musical interaction via controllable, real-time generative models. Ilaria received her PhD from Queen Mary University of London, where she developed multimodal representation learning approaches to connect music and language for a variety of music understanding tasks.
   </div>
 </div>
 
