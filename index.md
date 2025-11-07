@@ -37,7 +37,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 |||
 |:-:|--|
 | 8:00  - 8:10  | Opening Remarks                                           |
-| 8:10  - 8:40  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google Deepmind)<br>*The Expanding Horizons of Generative Music AI Research*{:.accent} |
+| 8:10  - 8:40  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google Deepmind)<br>*Quantifying creativity? Rigorous evaluation for music AI*{:.accent} |
 | 8:40  - 9:10  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} |
 | 9:10  - 10:10 | ☕Coffee Break + **[Posters & Demos I](#papers_demos)**   |
 | 10:10 - 10:40 | **Lightning Talks**                                       |
@@ -61,7 +61,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 <div class="row">
   <a href="https://chrisdonahue.com/"><img class="headshot" src="headshots/donahue.jpg" alt="Chris Donahue"></a>
   <div class="bio" markdown=1>
-  **[Chris Donahue](https://chrisdonahue.com/)** is an Assistant Professor in the Computer Science Department at the Carnegie Mellon University, and a part-time research scientist at Google DeepMind. His research goal is to develop and responsibly deploy generative AI for music and creativity, thereby unlocking and augmenting human creative potential. His research has been featured in live performances by professional musicians like [The Flaming Lips](https://magenta.tensorflow.org/fruitgenie), and also empowers hundreds of daily users to convert their favorite music into interactive content through his website [Beat Sage](https://www.roadtovr.com/beat-saber-project-uses-ai-generate-custom-beat-maps-song/).
+  **[Chris Donahue](https://chrisdonahue.com/)** is the Dannenberg Assistant Professor in the Computer Science Department (CSD) at Carnegie Mellon University, and a part-time Research Scientist at Google DeepMind. At CMU, Chris leads the Generative Creativity Lab (G-CLef), with a mission to empower and enrich human creativity and productivity with generative AI. This primarily involves work at the intersection of music and AI, though also includes work on other applications such as code, gaming, and language. Chris's research has also translated to real-world impact in music, from integration into performances by professional bands (The Flaming Lips) to consumer music AI tools (Beat Sage, Hookpad Aria) that have been used hundreds of thousands of times. Before CMU, Chris was a postdoctoral scholar in the CS department at Stanford advised by Percy Liang. Chris holds a PhD from UC San Diego where he was jointly advised by Miller Puckette (music) and Julian McAuley (CS).
   </div>
 </div>
 
