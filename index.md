@@ -161,6 +161,9 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
   <a href="https://soundpatrol.com/"><img class="gold-sponsor-logo" src="sponsors/soundpatrol.png" alt="SoundPatrol"></a>
   <a href="https://deepmind.google/"><img class="gold-sponsor-logo" src="sponsors/deepmind.png" alt="Google Deepmind"></a>
 </div>
+<div class="sponsor-row">
+  <a href="https://www.neutune.com/"><img class="gold-sponsor-logo" src="sponsors/neutune.png" alt="Neutune"></a>
+</div>
 
 ### **Silver Sponsors**{:.silver-sponsor}
 
