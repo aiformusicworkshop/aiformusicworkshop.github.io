@@ -3,438 +3,607 @@
         "id": "Qb16ofAFhd",
         "track": "Paper Track",
         "title": "MGE-LDM: Joint Latent Diffusion for Simultaneous Music Generation and Source Extraction",
-        "authors": "Yunkee Chae, Kyogu Lee"
+        "authors": "Yunkee Chae, Kyogu Lee",
+        "forum": "https://openreview.net/forum?id=Qb16ofAFhd",
+        "pdf": "https://openreview.net/pdf?id=Qb16ofAFhd"
     },
     "2": {
         "id": "uHGPKZBBDw",
         "track": "Paper Track",
         "title": "Soundtrack Retrieval for Film Production",
-        "authors": "Bill Wang, Haven Kim, Leduo Chen, Minje Kim, Julian McAuley"
+        "authors": "Bill Wang, Haven Kim, Leduo Chen, Minje Kim, Julian McAuley",
+        "forum": "https://openreview.net/forum?id=uHGPKZBBDw",
+        "pdf": "https://openreview.net/pdf?id=uHGPKZBBDw"
     },
     "3": {
         "id": "GVW9YixIAI",
         "track": "Paper Track",
-        "title": "Midi-LLM: Adapting Large Language Models for Text-to-MIDI Music Generation",
-        "authors": "Shih-Lun Wu, Yoon Kim, Cheng-Zhi Anna Huang"
+        "title": "MIDI-LLM: Adapting Large Language Models for Text-to-MIDI Music Generation",
+        "authors": "Shih-Lun Wu, Yoon Kim, Cheng-Zhi Anna Huang",
+        "forum": "https://openreview.net/forum?id=GVW9YixIAI",
+        "pdf": "https://openreview.net/pdf?id=GVW9YixIAI"
     },
     "4": {
         "id": "NG187AZ71W",
         "track": "Paper Track",
         "title": "Advancing Multi-Instrument Music Transcription: Results from the 2025 AMT Challenge",
-        "authors": "Ojas Chaturvedi, Kayshav Bhardwaj, Tanay Gondil, Benjamin Shiue-Hal Chou, Yujia Yan, Kristen Yeon-Ji Yun, Yung-Hsiang Lu"
+        "authors": "Ojas Chaturvedi, Kayshav Bhardwaj, Tanay Gondil, Benjamin Shiue-Hal Chou, Yujia Yan, Kristen Yeon-Ji Yun, Yung-Hsiang Lu",
+        "forum": "https://openreview.net/forum?id=NG187AZ71W",
+        "pdf": "https://openreview.net/pdf?id=NG187AZ71W"
     },
     "6": {
         "id": "hZJesTnnix",
         "track": "Demo Track",
         "title": "Slimmable NAM: Neural Amp Models with adjustable runtime computational cost",
-        "authors": "Steven Atkinson"
+        "authors": "Steven Atkinson",
+        "forum": "https://openreview.net/forum?id=hZJesTnnix",
+        "pdf": "https://openreview.net/pdf?id=hZJesTnnix",
+        "video": "https://youtu.be/93WAQsFu694"
     },
     "7": {
         "id": "KwKfcSGZhF",
         "track": "Paper Track",
         "title": "Semitone-Aware Fourier Encoding: A Music-Structured Approach to Audio-Text Alignment",
-        "authors": "Chengze Du, JinYang Zhang, Wenxin Zhang"
+        "authors": "Chengze Du, JinYang Zhang, Wenxin Zhang",
+        "forum": "https://openreview.net/forum?id=KwKfcSGZhF",
+        "pdf": "https://openreview.net/pdf?id=KwKfcSGZhF",
+        "video": "https://youtu.be/-lwArUK2Pi0"
     },
     "8": {
         "id": "pKmjzw8TO8",
         "track": "Paper Track",
         "title": "Zero-shot Geometry-Aware Diffusion Guidance for Music Restoration",
-        "authors": "Jia-Wei Liao, Pin-Chi Pan, Li-Xuan Peng, Sheng-Ping Yang, Yen-Tung Yeh, Cheng-Fu Chou, Yi-Hsuan Yang"
+        "authors": "Jia-Wei Liao, Pin-Chi Pan, Li-Xuan Peng, Sheng-Ping Yang, Yen-Tung Yeh, Cheng-Fu Chou, Yi-Hsuan Yang",
+        "forum": "https://openreview.net/forum?id=pKmjzw8TO8",
+        "pdf": "https://openreview.net/pdf?id=pKmjzw8TO8"
     },
     "9": {
         "id": "4FcdLvUKpw",
         "track": "Paper Track",
         "title": "AIBA: Attention-based Instrument Band Alignment for Text-to-Audio Diffusion",
-        "authors": "Junyoung Koh, Soo Yong Kim, GYU HYEONG CHOI, Yongwon choi"
+        "authors": "Junyoung Koh, Soo Yong Kim, GYU HYEONG CHOI, Yongwon choi",
+        "forum": "https://openreview.net/forum?id=4FcdLvUKpw",
+        "pdf": "https://openreview.net/pdf?id=4FcdLvUKpw"
     },
     "11": {
         "id": "NkoSUJmzja",
         "track": "Paper Track",
         "title": "My Music My Choice: Adversarial Protection Against Vocal Cloning in Songs",
-        "authors": "Ilke Demir, Gerald Pena Vargas, Alicia Unterreiner, David Ponce, Umur A. Ciftci"
+        "authors": "Ilke Demir, Gerald Pena Vargas, Alicia Unterreiner, David Ponce, Umur A. Ciftci",
+        "forum": "https://openreview.net/forum?id=NkoSUJmzja",
+        "pdf": "https://openreview.net/pdf?id=NkoSUJmzja"
     },
     "12": {
         "id": "lroa1yvUd3",
         "track": "Paper Track",
         "title": "PANDORA: Diffusion Policy Learning for Dexterous Robotics Piano Playing with a Train-only LLM Expressiveness Reward",
-        "authors": "Yanjia Huang, Renjie Li, Zhengzhong Tu"
+        "authors": "Yanjia Huang, Renjie Li, Zhengzhong Tu",
+        "forum": "https://openreview.net/forum?id=lroa1yvUd3",
+        "pdf": "https://openreview.net/pdf?id=lroa1yvUd3",
+        "video": "https://youtu.be/BxQ49eC5bLM"
     },
     "14": {
         "id": "WdjCd7dqSy",
         "track": "Paper Track",
         "title": "Rhythmic Stability and Synchronization in Multi-Track Music Generation",
-        "authors": "Hongrui Wang, Fan Zhang, Zhiyuan Yu, Ziya Zhou, Xi Chen, Yang Wang, Can Yang"
+        "authors": "Hongrui Wang, Fan Zhang, Zhiyuan Yu, Ziya Zhou, Xi Chen, Yang Wang, Can Yang",
+        "forum": "https://openreview.net/forum?id=WdjCd7dqSy",
+        "pdf": "https://openreview.net/pdf?id=WdjCd7dqSy"
     },
     "15": {
         "id": "IQSI6mDRp2",
         "track": "Paper Track",
         "title": "Audio-to-Audio Schrodinger Bridges",
-        "authors": "Kevin J. Shih, Zhifeng Kong, Weili Nie, Arash Vahdat, Sang-gil Lee, Joao Felipe Santos, Ante Jukić, Rafael Valle, Bryan Catanzaro"
+        "authors": "Kevin J. Shih, Zhifeng Kong, Weili Nie, Arash Vahdat, Sang-gil Lee, Joao Felipe Santos, Ante Jukić, Rafael Valle, Bryan Catanzaro",
+        "forum": "https://openreview.net/forum?id=IQSI6mDRp2",
+        "pdf": "https://openreview.net/pdf?id=IQSI6mDRp2",
+        "video": "https://openreview.net/attachment?id=IQSI6mDRp2&name=video_file"
     },
     "17": {
         "id": "oXn1zg81Mq",
         "track": "Paper Track",
-        "title": "Hierarchical Tokenization of Multimodal Music Data for LLM-Compatible Semantic Representations",
-        "authors": "Wo Jae Lee, Emanuele Coviello, Rifat Joyee, Sudev Mukherjee"
+        "title": "Multimodal Music Tokenization with Residual Quantization for Generative Retrieval",
+        "authors": "Wo Jae Lee, Emanuele Coviello, Rifat Joyee, Sudev Mukherjee",
+        "forum": "https://openreview.net/forum?id=oXn1zg81Mq",
+        "pdf": "https://openreview.net/pdf?id=oXn1zg81Mq"
     },
     "23": {
         "id": "sPMMQy76WD",
         "track": "Paper Track",
         "title": "AMBISONIC-DML: Higher-Order Ambisonic Music Dataset for Spatial AI Generation",
-        "authors": "Seungryeol Paik, Kyogu Lee"
+        "authors": "Seungryeol Paik, Kyogu Lee",
+        "forum": "https://openreview.net/forum?id=sPMMQy76WD",
+        "pdf": "https://openreview.net/pdf?id=sPMMQy76WD"
     },
     "24": {
         "id": "LFRTOEm0zk",
         "track": "Paper Track",
         "title": "Video-to-Music Generation for Film Production: A Dataset and Framework",
-        "authors": "Haven Kim, Leduo Chen, Bill Wang, Hao-Wen Dong, Julian McAuley"
+        "authors": "Haven Kim, Leduo Chen, Bill Wang, Hao-Wen Dong, Julian McAuley",
+        "forum": "https://openreview.net/forum?id=LFRTOEm0zk",
+        "pdf": "https://openreview.net/pdf?id=LFRTOEm0zk"
     },
     "25": {
         "id": "Pdf0rfE7l2",
         "track": "Paper Track",
         "title": "Segment-Factorized Full-Song Generation on Symbolic Piano Music",
-        "authors": "Ping-Yi Chen, Chih-Pin Tan, Yi-Hsuan Yang"
+        "authors": "Ping-Yi Chen, Chih-Pin Tan, Yi-Hsuan Yang",
+        "forum": "https://openreview.net/forum?id=Pdf0rfE7l2",
+        "pdf": "https://openreview.net/pdf?id=Pdf0rfE7l2"
     },
     "27": {
         "id": "bGAap6ShD8",
         "track": "Paper Track",
         "title": "When Creative Machines Learn from Each Other",
-        "authors": "Haven Kim, Yusong Wu, Taylor Berg-Kirkpatrick, Julian McAuley"
+        "authors": "Haven Kim, Yusong Wu, Taylor Berg-Kirkpatrick, Julian McAuley",
+        "forum": "https://openreview.net/forum?id=bGAap6ShD8",
+        "pdf": "https://openreview.net/pdf?id=bGAap6ShD8"
     },
     "29": {
         "id": "dxwsVO0W47",
         "track": "Paper Track",
         "title": "FlashFoley: Fast Interactive Sketch2Audio Generation",
-        "authors": "Zachary Novack, Koichi Saito, Zhi Zhong, Takashi Shibuya, Shuyang Cui, Julian McAuley, Taylor Berg-Kirkpatrick, christian simon, Shusuke Takahashi, Yuki Mitsufuji"
+        "authors": "Zachary Novack, Koichi Saito, Zhi Zhong, Takashi Shibuya, Shuyang Cui, Julian McAuley, Taylor Berg-Kirkpatrick, christian simon, Shusuke Takahashi, Yuki Mitsufuji",
+        "forum": "https://openreview.net/forum?id=dxwsVO0W47",
+        "pdf": "https://openreview.net/pdf?id=dxwsVO0W47"
     },
     "31": {
         "id": "tCCT28Elqw",
         "track": "Paper Track",
         "title": "Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation",
-        "authors": "Xueyan Li, Yuxin Wang, Mengjie Jiang, Qingzi Zhu, Jing Zhang, Zoey Kim, Yazhe Niu"
+        "authors": "Xueyan Li, Yuxin Wang, Mengjie Jiang, Qingzi Zhu, Jing Zhang, Zoey Kim, Yazhe Niu",
+        "forum": "https://openreview.net/forum?id=tCCT28Elqw",
+        "pdf": "https://openreview.net/pdf?id=tCCT28Elqw"
     },
     "32": {
         "id": "5nwntRIb6G",
         "track": "Demo Track",
         "title": "Towards AI Rapper: Creating an Interactive Rap Battle Experience with Generative AI",
-        "authors": "Nikita Kozodoi, Elizaveta Zinovyeva, Zainab Afolabi, Egor Krashenninikov"
+        "authors": "Nikita Kozodoi, Elizaveta Zinovyeva, Zainab Afolabi, Egor Krashenninikov",
+        "forum": "https://openreview.net/forum?id=5nwntRIb6G",
+        "pdf": "https://openreview.net/pdf?id=5nwntRIb6G",
+        "video": "https://youtu.be/M7l5RjHEons"
     },
     "34": {
         "id": "IctECrBsM7",
         "track": "Paper Track",
         "title": "Bias beyond Borders: Global Inequalities in AI-Generated Music",
-        "authors": "Ahmet Solak, Florian Grötschla, Luca A Lanzendörfer, Roger Wattenhofer"
+        "authors": "Ahmet Solak, Florian Grötschla, Luca A Lanzendörfer, Roger Wattenhofer",
+        "forum": "https://openreview.net/forum?id=IctECrBsM7",
+        "pdf": "https://openreview.net/pdf?id=IctECrBsM7"
     },
     "35": {
         "id": "YHTvQs2WAE",
         "track": "Paper Track",
         "title": "ENHANCING TEXT-TO-MUSIC GENERATION THROUGH RETRIEVAL-AUGMENTED PROMPT REWRITE",
-        "authors": "Meiying Ding, Brian McFee, Chenkai Hu, Sunny Yang, Juhua Huang"
+        "authors": "Meiying Ding, Brian McFee, Chenkai Hu, Sunny Yang, Juhua Huang",
+        "forum": "https://openreview.net/forum?id=YHTvQs2WAE",
+        "pdf": "https://openreview.net/pdf?id=YHTvQs2WAE"
     },
     "36": {
         "id": "yL8BrlEqHQ",
         "track": "Paper Track",
         "title": "The Ghost in the Keys: A Disklavier Demo for Human-AI Musical Co-Creativity",
-        "authors": "Louis Bradshaw, Alexander Spangher, Stella Biderman, Simon Colton"
+        "authors": "Louis Bradshaw, Alexander Spangher, Stella Biderman, Simon Colton",
+        "forum": "https://openreview.net/forum?id=yL8BrlEqHQ",
+        "pdf": "https://openreview.net/pdf?id=yL8BrlEqHQ",
+        "video": "https://www.youtube.com/watch?v=8s3V922h3CU"
     },
     "38": {
         "id": "yH1PQoOiyO",
         "track": "Paper Track",
         "title": "Persian Musical Instruments Classification Using Polyphonic Data Augmentation",
-        "authors": "Diba Hadi Esfangereh, Mohammad Hossein Sameti, Sepehr Harfi Moridani, Leili Javidpour, Mahdieh Soleymani Baghshah"
+        "authors": "Diba Hadi Esfangereh, Mohammad Hossein Sameti, Sepehr Harfi Moridani, Leili Javidpour, Mahdieh Soleymani Baghshah",
+        "forum": "https://openreview.net/forum?id=yH1PQoOiyO",
+        "pdf": "https://openreview.net/pdf?id=yH1PQoOiyO"
     },
     "39": {
         "id": "ZokEKrwev1",
         "track": "Demo Track",
         "title": "Enhancing Text-to-Music Generation through Retrieval-Augmented Prompt Rewrite Demo",
-        "authors": "Meiying Ding, Brian McFee, Sunny Yang, Chenkai Hu, Juhua Huang"
+        "authors": "Meiying Ding, Brian McFee, Sunny Yang, Chenkai Hu, Juhua Huang",
+        "forum": "https://openreview.net/forum?id=ZokEKrwev1",
+        "pdf": "https://openreview.net/pdf?id=ZokEKrwev1",
+        "video": "https://openreview.net/attachment?id=ZokEKrwev1&name=video_file"
     },
     "40": {
         "id": "jVSlJk5qNA",
         "track": "Paper Track",
-        "title": "Discovering Interpretable Concepts in Large Generative Music Models",
-        "authors": "Nikhil Singh, Manuel Cherep, Patricia Maes"
+        "title": "Discovering and Steering Interpretable Concepts in Large Generative Music Models",
+        "authors": "Nikhil Singh, Manuel Cherep, Patricia Maes",
+        "forum": "https://openreview.net/forum?id=jVSlJk5qNA",
+        "pdf": "https://openreview.net/pdf?id=jVSlJk5qNA"
     },
     "41": {
         "id": "G1Y6QSvHyn",
         "track": "Paper Track",
         "title": "Linear RNNs for autoregressive generation of long music samples",
-        "authors": "Konrad Szewczyk, Daniel Gallo Fernández, James Townsend"
+        "authors": "Konrad Szewczyk, Daniel Gallo Fernández, James Townsend",
+        "forum": "https://openreview.net/forum?id=G1Y6QSvHyn",
+        "pdf": "https://openreview.net/pdf?id=G1Y6QSvHyn"
     },
     "42": {
         "id": "m81OkNYYds",
         "track": "Demo Track",
         "title": "Prompt-Based Music Discovery: A Prototype Using Source Separation And LLMs",
-        "authors": "Vansh Chugh"
+        "authors": "Vansh Chugh",
+        "forum": "https://openreview.net/forum?id=m81OkNYYds",
+        "pdf": "https://openreview.net/pdf?id=m81OkNYYds",
+        "video": "https://youtu.be/w25tvlXW4pg"
     },
     "43": {
         "id": "4Xnf6pHFGe",
         "track": "Paper Track",
         "title": "Music to Video Matching Based on Beats and Tempo",
-        "authors": "Aleksandr Mikheev, Ilya Makarov"
+        "authors": "Aleksandr Mikheev, Ilya Makarov",
+        "forum": "https://openreview.net/forum?id=4Xnf6pHFGe",
+        "pdf": "https://openreview.net/pdf?id=4Xnf6pHFGe"
     },
     "46": {
         "id": "UzDOCp6R40",
         "track": "Demo Track",
         "title": "LyricLens: An Interactive System for Multi-Label Music Content Rating",
-        "authors": "Kai-Yu Lu, Malhar Sham Ghogare, Zihan Su, Shanu Sushmita"
+        "authors": "Kai-Yu Lu, Malhar Sham Ghogare, Zihan Su, Shanu Sushmita",
+        "forum": "https://openreview.net/forum?id=UzDOCp6R40",
+        "pdf": "https://openreview.net/pdf?id=UzDOCp6R40",
+        "video": "https://www.youtube.com/watch?v=nmLQigBSWjE"
     },
     "47": {
         "id": "LR79dNF5Qv",
         "track": "Paper Track",
         "title": "Multi-bit Audio Watermarking for Music",
-        "authors": "Luca A Lanzendörfer, Kyle Fearne, Florian Grötschla, Roger Wattenhofer"
+        "authors": "Luca A Lanzendörfer, Kyle Fearne, Florian Grötschla, Roger Wattenhofer",
+        "forum": "https://openreview.net/forum?id=LR79dNF5Qv",
+        "pdf": "https://openreview.net/pdf?id=LR79dNF5Qv"
     },
     "48": {
         "id": "7hHWCJ6KIa",
         "track": "Paper Track",
         "title": "LEGATO: Large-scale End-to-end Generalizable Approach to Typeset OMR",
-        "authors": "Guang Yang, Victoria Ebert, Nazif Can Tamer, Luiza Amador Pozzobon, Noah A. Smith"
+        "authors": "Guang Yang, Victoria Ebert, Nazif Can Tamer, Luiza Amador Pozzobon, Noah A. Smith",
+        "forum": "https://openreview.net/forum?id=7hHWCJ6KIa",
+        "pdf": "https://openreview.net/pdf?id=7hHWCJ6KIa"
     },
     "49": {
         "id": "9gL6FYoBNU",
         "track": "Paper Track",
         "title": "MuCPT: Music-related Natural Language Model Continued Pretraining",
-        "authors": "Kai Tian, Yirong Mao, Wendong Bi, Hanjie Wang, Que Wenhui"
+        "authors": "Kai Tian, Yirong Mao, Wendong Bi, Hanjie Wang, Que Wenhui",
+        "forum": "https://openreview.net/forum?id=9gL6FYoBNU",
+        "pdf": "https://openreview.net/pdf?id=9gL6FYoBNU"
     },
     "52": {
         "id": "t0Zz2DpaYT",
         "track": "Paper Track",
         "title": "Composer Vector: Style-steering Symbolic Music Generation in a Latent Space",
-        "authors": "Xunyi Jiang, Xin Xu"
+        "authors": "Xunyi Jiang, Xin Xu",
+        "forum": "https://openreview.net/forum?id=t0Zz2DpaYT",
+        "pdf": "https://openreview.net/pdf?id=t0Zz2DpaYT"
     },
     "53": {
         "id": "rXUKO0ysUy",
         "track": "Paper Track",
         "title": "Perceptually Aligning Representations of Music via Noise-Augmented Autoencoders",
-        "authors": "Mathias Rose Bjare, Giorgia Cantisani, Marco Pasini, Stefan Lattner, Gerhard Widmer"
+        "authors": "Mathias Rose Bjare, Giorgia Cantisani, Marco Pasini, Stefan Lattner, Gerhard Widmer",
+        "forum": "https://openreview.net/forum?id=rXUKO0ysUy",
+        "pdf": "https://openreview.net/pdf?id=rXUKO0ysUy"
     },
     "56": {
         "id": "oERJ6K8FIn",
         "track": "Paper Track",
         "title": "SepACap: Source Separation for A Cappella Music",
-        "authors": "Luca A Lanzendörfer, Constantin Pinkl, Florian Grötschla, Roger Wattenhofer"
+        "authors": "Luca A Lanzendörfer, Constantin Pinkl, Florian Grötschla, Roger Wattenhofer",
+        "forum": "https://openreview.net/forum?id=oERJ6K8FIn",
+        "pdf": "https://openreview.net/pdf?id=oERJ6K8FIn"
     },
     "57": {
         "id": "lsUxWFtlkv",
         "track": "Paper Track",
         "title": "Ethics Statements in AI Music Papers: The Effective and the Ineffective",
-        "authors": "Julia Barnett, Patrick O'Reilly, Jason Smith, Annie Chu, Bryan Pardo"
+        "authors": "Julia Barnett, Patrick O'Reilly, Jason Smith, Annie Chu, Bryan Pardo",
+        "forum": "https://openreview.net/forum?id=lsUxWFtlkv",
+        "pdf": "https://openreview.net/pdf?id=lsUxWFtlkv"
     },
     "59": {
         "id": "5EhE8euL9L",
         "track": "Paper Track",
         "title": "Beyond Collaborative Filtering: Using Decoders for Personalized Music Recommendation",
-        "authors": "Timothy Greer, Nicholas Capel, Emanuele Coviello, Amina Shabbeer"
+        "authors": "Timothy Greer, Nicholas Capel, Emanuele Coviello, Amina Shabbeer",
+        "forum": "https://openreview.net/forum?id=5EhE8euL9L",
+        "pdf": "https://openreview.net/pdf?id=5EhE8euL9L",
+        "video": "https://drive.google.com/file/d/1jqzhVCWTYJomM7vgOZ86PqbPVGo4PkaK/view?usp=drive_link"
     },
     "60": {
         "id": "ksXT82O6Ez",
         "track": "Paper Track",
         "title": "Do Joint Language-Audio Embeddings Encode Perceptual Timbre Semantics?",
-        "authors": "Qixin Deng, Bryan Pardo, Thrasyvoulos N Pappas"
+        "authors": "Qixin Deng, Bryan Pardo, Thrasyvoulos N Pappas",
+        "forum": "https://openreview.net/forum?id=ksXT82O6Ez",
+        "pdf": "https://openreview.net/pdf?id=ksXT82O6Ez"
     },
     "61": {
         "id": "aSKzwf623x",
         "track": "Paper Track",
         "title": "CLAM: Safeguarding Authenticity and Addressing Implications for the Music Industry",
-        "authors": "Arnesh Batra, Krish Thukral, Naman Batra, Dev Sharma, Ruhani Bhatia, Aditya Gautam"
+        "authors": "Arnesh Batra, Krish Thukral, Naman Batra, Dev Sharma, Ruhani Bhatia, Aditya Gautam",
+        "forum": "https://openreview.net/forum?id=aSKzwf623x",
+        "pdf": "https://openreview.net/pdf?id=aSKzwf623x",
+        "video": "https://www.youtube.com/watch?v=ArYWL3EqgBI"
     },
     "62": {
         "id": "dJd6QxF2Ze",
         "track": "Paper Track",
         "title": "MusicSem: A Semantically Rich Language-Audio Dataset of Organic Musical Discourse",
-        "authors": "Rebecca Salganik, Teng Tu, Fei-Yueh Chen, Xiaohao Liu, Kaifeng Lu, Ethan Luvisia, Zhiyao Duan, Guillaume Salha-Galvan, Anson Kahng, Yunshan Ma, Jian Kang"
+        "authors": "Rebecca Salganik, Teng Tu, Fei-Yueh Chen, Xiaohao Liu, Kaifeng Lu, Ethan Luvisia, Zhiyao Duan, Guillaume Salha-Galvan, Anson Kahng, Yunshan Ma, Jian Kang",
+        "forum": "https://openreview.net/forum?id=dJd6QxF2Ze",
+        "pdf": "https://openreview.net/pdf?id=dJd6QxF2Ze"
     },
     "64": {
         "id": "924rVFEbo6",
         "track": "Demo Track",
         "title": "AI Harmonica: A Smart Electronic Harmonica for Music Learning and Co-Creativity",
-        "authors": "Sherry Ruan"
+        "authors": "Sherry Ruan",
+        "forum": "https://openreview.net/forum?id=924rVFEbo6",
+        "pdf": "https://openreview.net/pdf?id=924rVFEbo6",
+        "video": "https://www.youtube.com/watch?v=ehhR2_d0Ce0"
     },
     "66": {
         "id": "xFetnk5I6o",
         "track": "Paper Track",
         "title": "Chord-conditioned Melody and Bass Generation",
-        "authors": "Alexandra C Salem, Mohammad Shokri, Johanna Devaney"
+        "authors": "Alexandra C Salem, Mohammad Shokri, Johanna Devaney",
+        "forum": "https://openreview.net/forum?id=xFetnk5I6o",
+        "pdf": "https://openreview.net/pdf?id=xFetnk5I6o"
     },
     "67": {
         "id": "Ula7U5a0yH",
         "track": "Paper Track",
         "title": "Why Do Music Models Plagiarize? A Motif-Centric Perspective",
-        "authors": "Tatsuro Inaba, Kentaro Inui"
+        "authors": "Tatsuro Inaba, Kentaro Inui",
+        "forum": "https://openreview.net/forum?id=Ula7U5a0yH",
+        "pdf": "https://openreview.net/pdf?id=Ula7U5a0yH"
     },
     "68": {
         "id": "fIlSXkkuNs",
         "track": "Paper Track",
-        "title": "StylePitcher: Generating Style-Following, Expressive Pitch Curves for Versatile Singing Tasks",
-        "authors": "Jingyue Huang, Qihui Yang, Fei-Yueh Chen, Randal Leistikow, Yongyi Zang"
+        "title": "StylePitcher: Generating Style-Following and Expressive Pitch Curves for Versatile Singing Tasks",
+        "authors": "Jingyue Huang, Qihui Yang, Fei-Yueh Chen, Julian McAuley, Randal Leistikow, Yongyi Zang",
+        "forum": "https://openreview.net/forum?id=fIlSXkkuNs",
+        "pdf": "https://openreview.net/pdf?id=fIlSXkkuNs"
     },
     "69": {
         "id": "wuuV8jZUJ3",
         "track": "Paper Track",
         "title": "Embedding Alignment in Code Generation for Audio",
-        "authors": "Sam Kouteili, Hiren Madhu, George Typaldos, Mark Paul Santolucito"
+        "authors": "Sam Kouteili, Hiren Madhu, George Typaldos, Mark Paul Santolucito",
+        "forum": "https://openreview.net/forum?id=wuuV8jZUJ3",
+        "pdf": "https://openreview.net/pdf?id=wuuV8jZUJ3"
     },
     "70": {
         "id": "lieErtGZb6",
         "track": "Paper Track",
         "title": "Using a Joint-Embedding Predictive Architecture for Symbolic Music Understanding",
-        "authors": "Rafik Hachana, Bader Rasheed"
+        "authors": "Rafik Hachana, Bader Rasheed",
+        "forum": "https://openreview.net/forum?id=lieErtGZb6",
+        "pdf": "https://openreview.net/pdf?id=lieErtGZb6"
     },
     "72": {
         "id": "Ha2z921r51",
         "track": "Demo Track",
         "title": "HARP 3.0: Generalizing I/O and API Support for Machine Learning in Digital Audio Workstations",
-        "authors": "Frank Cwitkowitz, Christodoulos Benetatos, Qixin Deng, Huiran Yu, Nathan Pruyne, Patrick O'Reilly, Hugo Flores García, Zhiyao Duan, Bryan Pardo"
+        "authors": "Frank Cwitkowitz, Christodoulos Benetatos, Qixin Deng, Huiran Yu, Nathan Pruyne, Patrick O'Reilly, Hugo Flores García, Zhiyao Duan, Bryan Pardo",
+        "forum": "https://openreview.net/forum?id=Ha2z921r51",
+        "pdf": "https://openreview.net/pdf?id=Ha2z921r51",
+        "video": "https://openreview.net/attachment?id=Ha2z921r51&name=video_file"
     },
     "73": {
         "id": "DiLo2r4g24",
         "track": "Demo Track",
         "title": "E-Motion Baton: Human-in-the-Loop Music Generation via Expression and Gesture",
-        "authors": "Mingchen Ma, Stephen Ni-Hahn, Simon Mak, Yue Jiang, Cynthia Rudin"
+        "authors": "Mingchen Ma, Stephen Ni-Hahn, Simon Mak, Yue Jiang, Cynthia Rudin",
+        "forum": "https://openreview.net/forum?id=DiLo2r4g24",
+        "pdf": "https://openreview.net/pdf?id=DiLo2r4g24",
+        "video": "https://youtu.be/I5_-3juMpuE"
     },
     "74": {
         "id": "oaeP03QCjE",
         "track": "Paper Track",
         "title": "Robust Neural Audio Fingerprinting using Music Foundation Models",
-        "authors": "Shubhr Singh, Kiran Bhat, Benjamin Resnick, Xavier Riley, John Thickstun, Walter De Brouwer"
+        "authors": "Shubhr Singh, Kiran Bhat, Benjamin Resnick, Xavier Riley, John Thickstun, Walter De Brouwer",
+        "forum": "https://openreview.net/forum?id=oaeP03QCjE",
+        "pdf": "https://openreview.net/pdf?id=oaeP03QCjE"
     },
     "76": {
         "id": "l3tVN08tyh",
         "track": "Paper Track",
         "title": "DAWZY: A New Addtion to AI powered \"Human in the Loop\" Music Co-creation",
-        "authors": "Aaron C Elkins, Sanchit Singh, Adrian Kieback, Sawyer Blankenship, Uyiosa Philip Amadasun, Aman Chadha"
+        "authors": "Aaron C Elkins, Sanchit Singh, Adrian Kieback, Sawyer Blankenship, Uyiosa Philip Amadasun, Aman Chadha",
+        "forum": "https://openreview.net/forum?id=l3tVN08tyh",
+        "pdf": "https://openreview.net/pdf?id=l3tVN08tyh",
+        "video": "https://www.youtube.com/watch?v=RQmCuYLkEDk"
     },
     "77": {
         "id": "nXHczMetxK",
         "track": "Paper Track",
         "title": "A Loopy Framework and Tool for Real-time Human-AI Music Collaboration",
-        "authors": "Sageev Oore, Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Marvin F. da Silva, Daniel Oore, Scott C. Lowe"
+        "authors": "Sageev Oore, Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Marvin F. da Silva, Daniel Oore, Scott C. Lowe",
+        "forum": "https://openreview.net/forum?id=nXHczMetxK",
+        "pdf": "https://openreview.net/pdf?id=nXHczMetxK"
     },
     "78": {
         "id": "GUgut5mO52",
         "track": "Demo Track",
         "title": "DAWZY: Human-in-the-Loop Natural-Language Control of REAPER",
-        "authors": "Aaron C Elkins, Sanchit Singh, Sawyer Blankenship, Adrian Kieback, Uyiosa Philip Amadasun, Aman Chadha"
+        "authors": "Aaron C Elkins, Sanchit Singh, Sawyer Blankenship, Adrian Kieback, Uyiosa Philip Amadasun, Aman Chadha",
+        "forum": "https://openreview.net/forum?id=GUgut5mO52",
+        "pdf": "https://openreview.net/pdf?id=GUgut5mO52",
+        "video": "https://www.youtube.com/watch?v=RQmCuYLkEDk"
     },
     "79": {
         "id": "6X0FJI4yGf",
         "track": "Paper Track",
         "title": "MusPyExpress: Extending MusPy with Enhanced Expression Text Support",
-        "authors": "Phillip Long, Hao-Wen Dong, Julian McAuley, Zachary Novack"
+        "authors": "Phillip Long, Hao-Wen Dong, Julian McAuley, Zachary Novack",
+        "forum": "https://openreview.net/forum?id=6X0FJI4yGf",
+        "pdf": "https://openreview.net/pdf?id=6X0FJI4yGf"
     },
     "80": {
         "id": "4rsd8OuIR0",
         "track": "Paper Track",
         "title": "Adapting Speech Language Model to Singing Voice Synthesis",
-        "authors": "Yiwen Zhao, Jiatong Shi, Jinchuan Tian, Yuxun Tang, Jiarui Hai, Jionghao Han, Shinji Watanabe"
+        "authors": "Yiwen Zhao, Jiatong Shi, Jinchuan Tian, Yuxun Tang, Jiarui Hai, Jionghao Han, Shinji Watanabe",
+        "forum": "https://openreview.net/forum?id=4rsd8OuIR0",
+        "pdf": "https://openreview.net/pdf?id=4rsd8OuIR0"
     },
     "81": {
         "id": "uWx1LXqQbr",
         "track": "Demo Track",
-        "title": "Immersive AI-Assisted Music Composition and  Performance in Virtual and Mixed Reality",
-        "authors": "Strong Bear"
+        "title": "Effortless: AI-Augmented Music Composition and  Live Performance in Virtual and Mixed Reality",
+        "authors": "Strong Bear",
+        "forum": "https://openreview.net/forum?id=uWx1LXqQbr",
+        "pdf": "https://openreview.net/pdf?id=uWx1LXqQbr",
+        "video": "https://www.youtube.com/playlist?list=PLzui51-zngvnyioXff8Wpacqiruo-i-sh"
     },
     "84": {
         "id": "ZsowMaruaY",
         "track": "Demo Track",
         "title": "EVxRAVE: Incorporating Neural Synthesis in an Augmented String Instrument Platform",
-        "authors": "Brian Lindgren"
+        "authors": "Brian Lindgren",
+        "forum": "https://openreview.net/forum?id=ZsowMaruaY",
+        "pdf": "https://openreview.net/pdf?id=ZsowMaruaY",
+        "video": "https://youtu.be/aVPE8Ac6XU8"
     },
     "88": {
         "id": "ylcGhAt75p",
         "track": "Paper Track",
         "title": "The Name-Free Gap: Policy-Aware Stylistic Control in Music Generation",
-        "authors": "Ashwin Nagarajan, Hao-Wen Dong"
+        "authors": "Ashwin Nagarajan, Hao-Wen Dong",
+        "forum": "https://openreview.net/forum?id=ylcGhAt75p",
+        "pdf": "https://openreview.net/pdf?id=ylcGhAt75p"
     },
     "89": {
         "id": "ZlMu0fSJeR",
         "track": "Paper Track",
-        "title": "Learning Music Style Through Cross-Modal Bootstrapping",
-        "authors": "Jingwei Zhao, Ziyu Wang, Gus Xia, Ye Wang"
+        "title": "BOSSA: Learning Music Style Through Cross-Modal Bootstrapping",
+        "authors": "Jingwei Zhao, Ziyu Wang, Gus Xia, Ye Wang",
+        "forum": "https://openreview.net/forum?id=ZlMu0fSJeR",
+        "pdf": "https://openreview.net/pdf?id=ZlMu0fSJeR",
+        "video": "https://youtu.be/yG-wmdz4Ntw?si=rHTIN9SDCHRMKbx9"
     },
     "90": {
         "id": "y7yd00Fstl",
         "track": "Demo Track",
         "title": "Robust Personalized Human-AI Collaboration with SmartLooper",
-        "authors": "Sageev Oore, Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Marvin F. da Silva, Daniel Oore, Scott C. Lowe"
+        "authors": "Sageev Oore, Finlay Miller, Chandramouli Shama Sastry, Sri Harsha Dumpala, Marvin F. da Silva, Daniel Oore, Scott C. Lowe",
+        "forum": "https://openreview.net/forum?id=y7yd00Fstl",
+        "pdf": "https://openreview.net/pdf?id=y7yd00Fstl",
+        "video": "https://osageev.github.io/projects/looper/"
     },
     "91": {
         "id": "yBxepy8IG3",
         "track": "Demo Track",
         "title": "Demonstrating Singing accompaniment capabilities for MuseControlLite",
-        "authors": "Fang-Duo Tsai, Yi-Hsuan Yang"
+        "authors": "Fang-Duo Tsai, Yi-Hsuan Yang",
+        "forum": "https://openreview.net/forum?id=yBxepy8IG3",
+        "pdf": "https://openreview.net/pdf?id=yBxepy8IG3"
     },
     "93": {
         "id": "5aHL39LymM",
         "track": "Paper Track",
         "title": "Who Gets Heard? Rethinking Fairness in AI for Music Systems",
-        "authors": "Atharva Mehta, Shivam Chauhan, Megha Sharma, Gus Xia, Kaustuv Kanti Ganguli, Nishanth Chandran, Zeerak Talat, Monojit Choudhury"
+        "authors": "Atharva Mehta, Shivam Chauhan, Megha Sharma, Gus Xia, Kaustuv Kanti Ganguli, Nishanth Chandran, Zeerak Talat, Monojit Choudhury",
+        "forum": "https://openreview.net/forum?id=5aHL39LymM",
+        "pdf": "https://openreview.net/pdf?id=5aHL39LymM"
     },
     "94": {
         "id": "BZ5XvwHabu",
         "track": "Paper Track",
         "title": "Memership and Dataset Inference Attacks on Large Audio Generative Models",
-        "authors": "Jakub Proboszcz, Paweł Kochański, Karol Korszun, Katarzyna Stankiewicz, Donato Crisostomi, Giorgio Strano, Emanuele Rodolà, Kamil Deja, Jan Dubiński"
+        "authors": "Jakub Proboszcz, Paweł Kochański, Karol Korszun, Katarzyna Stankiewicz, Donato Crisostomi, Giorgio Strano, Emanuele Rodolà, Kamil Deja, Jan Dubiński",
+        "forum": "https://openreview.net/forum?id=BZ5XvwHabu",
+        "pdf": "https://openreview.net/pdf?id=BZ5XvwHabu"
     },
     "95": {
         "id": "DeQyYW4Okk",
         "track": "Paper Track",
         "title": "From Generation to Attribution: Music AI Agent Architectures for the Post-Streaming Era",
-        "authors": "Wonil Kim, Hyeongseok Wi, Seungsoon Park, Taejun Kim, Sangeun Keum, Keunhyoung Kim, Taewan Kim, Jongmin Jung, Taehyoung Kim, Gaetan Guerrero, Mael Le Goff, Julie Po, Dongjoo Moon, Juhan Nam, Jongpil Lee"
+        "authors": "Wonil Kim, Hyeongseok Wi, Seungsoon Park, Taejun Kim, Sangeun Keum, Keunhyoung Kim, Taewan Kim, Jongmin Jung, Taehyoung Kim, Gaetan Guerrero, Mael Le Goff, Julie Po, Dongjoo Moon, Juhan Nam, Jongpil Lee",
+        "forum": "https://openreview.net/forum?id=DeQyYW4Okk",
+        "pdf": "https://openreview.net/pdf?id=DeQyYW4Okk",
+        "video": "https://youtu.be/lEj4XkPwNTo"
     },
     "96": {
         "id": "cckgZBnUVC",
         "track": "Paper Track",
         "title": "Asura's Harp: Direct Latent Control of Neural Sound",
-        "authors": "Kaj Bostrom"
+        "authors": "Kaj Bostrom",
+        "forum": "https://openreview.net/forum?id=cckgZBnUVC",
+        "pdf": "https://openreview.net/pdf?id=cckgZBnUVC"
     },
     "97": {
         "id": "viZfL6OROR",
         "track": "Paper Track",
-        "title": "Conversational Music Recommendation with LLM Tool Calling",
-        "authors": "SeungHeon Doh, Keunwoo Choi, Juhan Nam"
+        "title": "TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling",
+        "authors": "SeungHeon Doh, Keunwoo Choi, Juhan Nam",
+        "forum": "https://openreview.net/forum?id=viZfL6OROR",
+        "pdf": "https://openreview.net/pdf?id=viZfL6OROR"
     },
     "99": {
         "id": "7lB2t6tDpW",
         "track": "Demo Track",
         "title": "Mozart AI: Browser-Based AI Music Co-Production",
-        "authors": "Pascual Merita, Petr Ivan, Immanuel Rajadurai, Sundar Arvind, Arjun Khanna"
+        "authors": "Pascual Merita, Petr Ivan, Immanuel Rajadurai, Sundar Arvind, Arjun Khanna",
+        "forum": "https://openreview.net/forum?id=7lB2t6tDpW",
+        "pdf": "https://openreview.net/pdf?id=7lB2t6tDpW",
+        "video": "https://www.youtube.com/watch?v=sQdj2qvAWFk"
     },
     "100": {
         "id": "DBqYyS2eZX",
         "track": "Paper Track",
         "title": "No Encore: Unlearning as Opt-Out in Music Generation",
-        "authors": "Jinju Kim, Taehan Kim, Abdul Waheed, Jong Hwan Ko, Rita Singh"
+        "authors": "Jinju Kim, Taehan Kim, Abdul Waheed, Jong Hwan Ko, Rita Singh",
+        "forum": "https://openreview.net/forum?id=DBqYyS2eZX",
+        "pdf": "https://openreview.net/pdf?id=DBqYyS2eZX"
     },
     "101": {
         "id": "cGiBYjBFiY",
         "track": "Paper Track",
-        "title": "Generating Piano Music with Transformers: A Comparative Study of Scale, Data and Metrics",
-        "authors": "Ábel Ilyés-Kun, Jonathan Lehmkuhl, Nico Bremes, Cemhan Kaan Özaltan, Frederik Muthers, Jiayi Yuan, Christian Schmidt, Karim Abou Zeid"
+        "title": "Generating Piano Music with Transformers: A Comparative Study of Scale, Data, and Metrics",
+        "authors": "Jonathan Lehmkuhl, Ábel Ilyés-Kun, Nico Bremes, Cemhan Kaan Özaltan, Frederik Muthers, Jiayi Yuan",
+        "forum": "https://openreview.net/forum?id=cGiBYjBFiY",
+        "pdf": "https://openreview.net/pdf?id=cGiBYjBFiY"
     },
     "102": {
         "id": "ZcdQSNrptn",
         "track": "Paper Track",
         "title": "BNMusic: Blending Environmental Noises into Personalized Music",
-        "authors": "Chi Zuo, Martin B. Møller, Pablo Martínez-Nuevo, Huayang Huang, Yu Wu, Ye Zhu"
+        "authors": "Chi Zuo, Martin B. Møller, Pablo Martínez-Nuevo, Huayang Huang, Yu Wu, Ye Zhu",
+        "forum": "https://openreview.net/forum?id=ZcdQSNrptn",
+        "pdf": "https://openreview.net/pdf?id=ZcdQSNrptn"
     },
     "105": {
         "id": "pbCcvZdHyG",
         "track": "Paper Track",
         "title": "Evaluating Multimodal Large Language Models on Core Music Perception Tasks",
-        "authors": "Brandon James Carone, Iran R Roman, Pablo Ripollés"
+        "authors": "Brandon James Carone, Iran R Roman, Pablo Ripollés",
+        "forum": "https://openreview.net/forum?id=pbCcvZdHyG",
+        "pdf": "https://openreview.net/pdf?id=pbCcvZdHyG",
+        "video": "https://youtu.be/F-TP9gPDy94"
     },
     "107": {
         "id": "rAPN9Ir7jt",
         "track": "Paper Track",
         "title": "ACappellaSet: A Multilingual A Cappella Dataset for Source Separation and AI-assisted Rehearsal Tools",
-        "authors": "Ting-Yu Pan, Kexin Phyllis Ju, Hao-Wen Dong"
+        "authors": "Ting-Yu Pan, Kexin Phyllis Ju, Hao-Wen Dong",
+        "forum": "https://openreview.net/forum?id=rAPN9Ir7jt",
+        "pdf": "https://openreview.net/pdf?id=rAPN9Ir7jt"
     },
     "109": {
         "id": "2baIG6yeMt",
         "track": "Paper Track",
         "title": "Leveraging Diffusion Models For Predominant Instrument Recognition",
-        "authors": "Charis Cochran, Yeongheon Lee, Youngmoo Kim"
+        "authors": "Charis Cochran, Yeongheon Lee, Youngmoo Kim",
+        "forum": "https://openreview.net/forum?id=2baIG6yeMt",
+        "pdf": "https://openreview.net/pdf?id=2baIG6yeMt"
     }
 }

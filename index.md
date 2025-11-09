@@ -181,9 +181,9 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
 
 {% for paper in site.data.papers %}
 {% if paper.first == "14" %}
-- **{{ paper.last.title }}**<br>*Anonymous*
+- [{{ paper.last.title }}]({{ paper.last.pdf }})<br>*Anonymous*{% if paper.last.video %}<br>[▶️Demo]({{ paper.last.video}}){% endif %}
 {% elsif paper.last.track == "Paper Track" %}
-- **{{ paper.last.title }}**<br>{{ paper.last.authors }}
+- [{{ paper.last.title }}]({{ paper.last.pdf }})<br>{{ paper.last.authors }}{% if paper.last.video %}<br>[▶️Demo]({{ paper.last.video}}){% endif %}
 {% endif %}
 {% endfor %}
 
@@ -191,7 +191,7 @@ Erfun Ackley, Julia Barnett, Luca Bindini, Kaj Bostrom, Brandon James Carone, Yu
 
 {% for paper in site.data.papers %}
 {% if paper.last.track == "Demo Track" %}
-- **{{ paper.last.title }}**<br>{{ paper.last.authors }}
+- [{{ paper.last.title }}]({{ paper.last.pdf }})<br>{{ paper.last.authors }}{% if paper.last.video %}<br>[▶️Demo]({{ paper.last.video}}){% endif %}
 {% endif %}
 {% endfor %}
 

@@ -1,17 +1,26 @@
 """Download all videos from OpenReview."""
+import argparse
 import json
 import pathlib
 
-import openreview
 import getpass
+import openreview
 
 VENUE = "NeurIPS.cc/2025/Workshop/AI4Music"
 
+def parse_args():
+    """Download all videos from OpenReview."""
+    parser = argparse.ArgumentParser(description="Download all videos from OpenReview.")
+    parser.add_argument("-o", "--out_dir", type=pathlib.Path, default="videos")
+    return parser.parse_args()
+
 def main():
     """Download all videos from OpenReview."""
+    # Parse command-line arguments
+    args = parse_args()
+
     # Make sure the output directory exists
-    out_dir = pathlib.Path("videos")
-    out_dir.mkdir(exist_ok=True)
+    args.out_dir.mkdir(exist_ok=True)
 
     # Prompt for OpenReview username (email) and password
     username = input("Your OpenReview username (email): ")
@@ -51,12 +60,12 @@ def main():
 
         # Download the video
         paper_id = paper.id
-        with open(f"{out_dir}/{sub_num:03d}.mp4", "wb") as f:
+        with open(f"{args.out_dir}/{sub_num:03d}.mp4", "wb") as f:
             f.write(client.get_attachment(id=paper_id, field_name="video_file"))
 
     # Save the output dictionary to a JSON file
     out_dict = dict(sorted(out_dict.items()))
-    with open(f"{out_dir}/video_links.json", "w", encoding="utf-8") as f:
+    with open(f"{args.out_dir}/video_links.json", "w", encoding="utf-8") as f:
         json.dump(out_dict, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
