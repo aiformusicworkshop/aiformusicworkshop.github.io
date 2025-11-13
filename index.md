@@ -38,7 +38,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 |:-:|--|
 | 8:00  - 8:10  | Opening Remarks                                           |
 | 8:10  - 8:40  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google Deepmind)<br>*Quantifying creativity? Rigorous evaluation for music AI*{:.accent} |
-| 8:40  - 9:10  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Music Co-creativity with AI*{:.accent} |
+| 8:40  - 9:10  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Improvisation Agents and Multi-track Music Information Dynamics*{:.accent} |
 | 9:10  - 10:10 | ☕Coffee Break + **[Posters & Demos I](#papers_demos)**   |
 | 10:10 - 10:40 | **Lightning Talks**                                       |
 | 10:40 - 11:10 | **Oral Presentations**<br>*StylePitcher: Generating Style-Following, Expressive Pitch Curves for Versatile Singing Tasks*{:.accent}<br>Jingyue Huang, Qihui Yang, Fei-Yueh Chen, Randal Leistikow, Yongyi Zang<br>*E-Motion Baton: Human-in-the-Loop Music Generation via Expression and Gesture*{:.accent}<br>Mingchen Ma, Stephen Ni-Hahn, Simon Mak, Yue Jiang, Cynthia Rudin |
@@ -68,7 +68,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 <div class="row">
   <a href="http://dub.ucsd.edu/"><img class="headshot" src="headshots/dubnov.jpg" alt="Shlomo Dubnov"></a>
   <div class="bio" markdown=1>
-  **[Shlomo Dubnov](http://dub.ucsd.edu/)** is a Professor in the Music Department and Affiliate Professor in Computer Science and Engineering at the University of California San Diego. He is also the Director of the Center for Research in Entertainment and Learning at Qualcomm Institute. He is best known for his research on poly-spectral analysis of musical timbre and inventing the method of Music Information Dynamics with applications in Computer Audition and Machine improvisation.
+  **[Shlomo Dubnov](http://dub.ucsd.edu/)** is a Professor in Music and CSE departments in the University of California, San Diego. He is a founding faculty of the Halıcıoğlu Data Science Institute and a Director of the Center for Research in Entertainment and Learning (CREL) at UC San Diego's Qualcomm Institute.
   </div>
 </div>
 
