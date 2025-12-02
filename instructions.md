@@ -12,3 +12,6 @@
 - Due to space constraints, we can only provide a small space in front of your poster for the demo presentation. You'll be assigned a poster spot plus full or half of a 6'x18" table in front of your poster.
 - Poster size: 24 x 36 inches in portrait orientation
 - [Demo Assignments](https://docs.google.com/spreadsheets/d/1xZqk-eqgSY6nkLdhPVjokaFqaaop821uUbUJcCwvzsM/edit?gid=1295270981#gid=1295270981)
+
+![Floor Plan](floorplan.png){:style="max-width: 400px;"}
+{:.center}
