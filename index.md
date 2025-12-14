@@ -8,6 +8,7 @@
 ---
 
 <details markdown=1><summary markdown="span">Shortcuts</summary>
+- [📸 Gallery](#gallery)
 - [ℹ️ Description](#description)
 - [📅 Schedule](#schedule)
 - [💡 Invited Speakers](#speakers)
@@ -18,6 +19,22 @@
 - [📢 Call for Papers & Demos](#cfp)
 - [🔄 Previous Iterations](#iterations)
 </details>
+
+---
+
+## 📸 Gallery {#gallery}
+
+<div class="gallery" markdown=1>
+![posters](photos/posters.jpg)
+![talk1](photos/talk1.jpg)
+![talk2](photos/talk2.jpg)
+![talk3](photos/talk3.jpg)
+![talk4](photos/talk4.jpg)
+![talk5](photos/talk5.jpg)
+![panel1](photos/panel1.jpg)
+![panel2](photos/panel2.jpg)
+![team](photos/team.jpg)
+</div>
 
 ---
 
@@ -45,7 +62,7 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 | 10:40 - 11:10 | **Oral Presentations**<br>*StylePitcher: Generating Style-Following, Expressive Pitch Curves for Versatile Singing Tasks*{:.accent}<br>Jingyue Huang, Qihui Yang, Fei-Yueh Chen, Randal Leistikow, Yongyi Zang<br>*E-Motion Baton: Human-in-the-Loop Music Generation via Expression and Gesture*{:.accent}<br>Mingchen Ma, Stephen Ni-Hahn, Simon Mak, Yue Jiang, Cynthia Rudin |
 | 11:10 - 11:40 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
 | 11:40 - 12:10 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Design of AI-based Interactive Music Performance Systems in the Wild*{:.accent} |
-| 12:10 - 1:10  | 🍴Lunch Break (🥪box lunch provided)                     |
+| 12:10 - 1:10  | 🍴Lunch Break ~~(🥪box lunch provided)~~                 |
 | 1:10  - 2:00  | **[Posters & Demos II](#papers_demos)**                   |
 | 2:00  - 2:30  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Opportunities and Challenges in Music Recommendation*{:.accent} |
 | 2:30  - 3:00  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} |
