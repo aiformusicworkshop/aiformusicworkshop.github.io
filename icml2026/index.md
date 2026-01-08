@@ -1,5 +1,6 @@
 ---
 logo: "icml2026/logo.jpg"
+custom_css: "icml2026.css"
 ---
 
 # **ICML 2026 Workshop on AI for Music:**{:.accent2}<br>*Exploring Human-AI Music Co-creativity*{:.accent}
