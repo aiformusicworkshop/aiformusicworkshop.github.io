@@ -54,21 +54,21 @@ The workshop will feature invited talks, contributed spotlight presentations, a 
 
 |||
 |:-:|--|
-| 8:00  - 8:10  | Opening Remarks                                           |
-| 8:10  - 8:40  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google Deepmind)<br>*Quantifying creativity? Rigorous evaluation for music AI*{:.accent} |
-| 8:40  - 9:10  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego)<br>*Improvisation Agents and Multi-track Music Information Dynamics*{:.accent} |
-| 9:10  - 10:10 | ☕Coffee Break + **[Posters & Demos I](#papers_demos)**   |
-| 10:10 - 10:40 | **Lightning Talks**                                       |
-| 10:40 - 11:10 | **Oral Presentations**<br>**Best Paper Award**{:.accent2}<br>*StylePitcher: Generating Style-Following, Expressive Pitch Curves for Versatile Singing Tasks*{:.accent}<br>Jingyue Huang, Qihui Yang, Fei-Yueh Chen, Randal Leistikow, Yongyi Zang<br>**Best Demo Award**{:.accent2}<br>*E-Motion Baton: Human-in-the-Loop Music Generation via Expression and Gesture*{:.accent}<br>Mingchen Ma, Stephen Ni-Hahn, Simon Mak, Yue Jiang, Cynthia Rudin |
-| 11:10 - 11:40 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} |
-| 11:40 - 12:10 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Design of AI-based Interactive Music Performance Systems in the Wild*{:.accent} |
-| 12:10 - 1:10  | 🍴Lunch Break ~~(🥪box lunch provided)~~                 |
-| 1:10  - 2:00  | **[Posters & Demos II](#papers_demos)**                   |
-| 2:00  - 2:30  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Opportunities and Challenges in Music Recommendation*{:.accent} |
-| 2:30  - 3:00  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} |
+| 8:00  - 8:10  | Opening Remarks [▶️](https://slideslive.com/39054605/opening-remarks) |
+| 8:10  - 8:40  | **Invited Talk** by [Chris Donahue](https://chrisdonahue.com/) (CMU & Google Deepmind) [▶️](https://slideslive.com/39054606/quantifying-creativity-rigorous-evaluation-for-music-ai)<br>*Quantifying creativity? Rigorous evaluation for music AI*{:.accent} |
+| 8:40  - 9:10  | **Invited Talk** by [Shlomo Dubnov](http://dub.ucsd.edu/) (UC San Diego) [▶️](https://slideslive.com/39054607/improvisation-agents-and-multitrack-music-information-dynamics)<br>*Improvisation Agents and Multi-track Music Information Dynamics*{:.accent} |
+| 9:10  - 10:10 | ☕Coffee Break + **[Posters & Demos I](#papers_demos)** |
+| 10:10 - 10:40 | **Lightning Talks** [▶️](https://slideslive.com/39054608/lightning-talks) |
+| 10:40 - 11:10 | **Oral Presentations**<br>**Best Paper Award**{:.accent2}<br>*StylePitcher: Generating Style-Following, Expressive Pitch Curves for Versatile Singing Tasks*{:.accent} [▶️](https://slideslive.com/39054609/stylepitcher-generating-stylefollowing-expressive-pitch-curves-for-versatile-singing-tasks)<br>Jingyue Huang, Qihui Yang, Fei-Yueh Chen, Randal Leistikow, Yongyi Zang<br>**Best Demo Award**{:.accent2}<br>*E-Motion Baton: Human-in-the-Loop Music Generation via Expression and Gesture*{:.accent} [▶️](https://slideslive.com/39054610/emotion-baton-humanintheloop-music-generation-via-expression-and-gesture)<br>Mingchen Ma, Stephen Ni-Hahn, Simon Mak, Yue Jiang, Cynthia Rudin |
+| 11:10 - 11:40 | **Invited Talk** by [Ilaria Manco](https://ilariamanco.com/) (Google Deepmind)<br>*Real-time Music Generation: Lowering Latency and Increasing Control*{:.accent} [▶️](https://slideslive.com/39054611/realtime-music-lowering-latency-and-increasing-control) |
+| 11:40 - 12:10 | **Invited Talk** by [Akira Maezawa](https://www.linkedin.com/in/akira-maezawa-7662a655/) (Yamaha)<br>*Design of AI-based Interactive Music Performance Systems in the Wild*{:.accent} [▶️](https://slideslive.com/39054612/design-of-aibased-interactive-music-performance-systems-in-the-wild) |
+| 12:10 - 1:10  | 🍴Lunch Break ~~(🥪box lunch provided)~~ |
+| 1:10  - 2:00  | **[Posters & Demos II](#papers_demos)** |
+| 2:00  - 2:30  | **Invited Talk** by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) (UC San Diego)<br>*Opportunities and Challenges in Music Recommendation*{:.accent} [▶️](https://slideslive.com/39054614/opportunities-and-challenges-in-music-recommendation) |
+| 2:30  - 3:00  | **Invited Talk** by [Anna Huang](https://czhuang.github.io/) (MIT)<br>*In Search of Human-AI Resonance*{:.accent} [▶️](https://slideslive.com/39054613/in-search-of-humanai-resonance) |
 | 3:00  - 4:00  | ☕Coffee Break + **[Posters & Demos III](#papers_demos)** |
-| 4:00  - 4:50  | **Panel Discussion** (with invited speakers)              |
-| 4:50  - 5:00  | Closing Remarks                                           |
+| 4:00  - 4:50  | **Panel Discussion** (with invited speakers) [▶️](https://slideslive.com/39054615/panel-discussion) |
+| 4:50  - 5:00  | Closing Remarks [▶️](https://slideslive.com/39054616/closing-remarks) |
 
 </div>
 
