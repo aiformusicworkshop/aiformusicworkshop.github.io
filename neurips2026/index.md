@@ -1,11 +1,11 @@
 ---
-logo: "icml2026/logo.jpg"
-custom_css: "icml2026.css"
+logo: "neurips2026/logo.jpg"
+custom_css: "neurips2026.css"
 ---
 
-# **ICML 2026 Workshop on AI for Music:**{:.accent2}<br>*Exploring Human-AI Music Co-creativity*{:.accent}
+# **NeurIPS 2026 Workshop on AI for Music:**{:.accent2}<br>*Exploring Human-AI Music Co-creativity*{:.accent}
 
-> July 10 or 11 @ [COEX Convention & Exhibition Center](https://maps.app.goo.gl/mogfra4r9PUq5X4T9), Seoul, Korea\\
+> December 11 or 12 in Sydney, Australia\\
 > Contact: <aiformusicworkshop@gmail.com>
 
 ---
@@ -132,6 +132,13 @@ TBD
 ## 🤩 Organizers {#organizers}
 
 <div class="row">
+  <a href="https://hermandong.com/"><img class="headshot" src="headshots/dong.jpg" alt="Hao-Wen (Herman) Dong"></a>
+  <div class="bio" markdown=1>
+  **[Hao-Wen (Herman) Dong](https://hermandong.com/)** is an Assistant Professor in the Department of Performing Arts Technology at the University of Michigan. Herman's research aims to augment human creativity with machine learning. He develops human-centered generative AI technology that can be integrated into the professional creative workflow, with a focus on music, audio and video content creation. His long-term goal is to lower the barrier of entry for content creation and democratize professional content creation for everyone. Herman received his PhD degree in Computer Science from University of California San Diego, where he worked with Julian McAuley and Taylor Berg-Kirkpatrick. His research has been recognized by the UCSD CSE Doctoral Award for Excellence in Research, KAUST Rising Stars in AI, UChicago and UCSD Rising Stars in Data Science, ICASSP Rising Stars in Signal Processing, and UCSD GPSA Interdisciplinary Research Award.
+  </div>
+</div>
+
+<div class="row">
   <a href="https://yhlu.net/"><img class="headshot" src="headshots/lu.jpg" alt="Yung-Hsiang Lu"></a>
   <div class="bio" markdown=1>
   **[Yung-Hsiang Lu](https://yhlu.net/)** is a Professor in the Elmore Family School of Electrical and Computer Engineering at Purdue University. He is a fellow of the IEEE and a distinguished scientist of the ACM. Yung-Hsiang has published papers on computer vision and machine learning in venues such as AI Magazine, Nature Machine Learning, and Computer. He is one of the editors of the book "Low-Power Computer Vision: Improve the Efficiency of Artificial Intelligence" (ISBN 9780367744700, 2022 by Chapman & Hall).
@@ -142,13 +149,6 @@ TBD
   <a href="https://kristenyeonjiyun.com/"><img class="headshot" src="headshots/yun.jpg" alt="Kristen Yeon-Ji Yun"></a>
   <div class="bio" markdown=1>
   **[Kristen Yeon-Ji Yun](https://kristenyeonjiyun.com/)** is a Clinical Associate Professor in the Department of Music at the Patti and Rusty Rueff School of Design, Art, and Performance at Purdue University. She is the Principal Investigator of the research project "Artificial Intelligence Technology for Future Music Performers" (US National Science Foundation, IIS 2326198). Kristen is an active soloist, chamber musician, musical scholar, and clinician. She has toured many countries, including Malaysia, Thailand, Germany, Mexico, Japan, China, Hong Kong, Spain, France, Italy, Taiwan, and South Korea, giving a series of successful concerts and master classes.
-  </div>
-</div>
-
-<div class="row">
-  <a href="https://hermandong.com/"><img class="headshot" src="headshots/dong.jpg" alt="Hao-Wen (Herman) Dong"></a>
-  <div class="bio" markdown=1>
-  **[Hao-Wen (Herman) Dong](https://hermandong.com/)** is an Assistant Professor in the Department of Performing Arts Technology at the University of Michigan. Herman's research aims to augment human creativity with machine learning. He develops human-centered generative AI technology that can be integrated into the professional creative workflow, with a focus on music, audio and video content creation. His long-term goal is to lower the barrier of entry for content creation and democratize professional content creation for everyone. Herman received his PhD degree in Computer Science from University of California San Diego, where he worked with Julian McAuley and Taylor Berg-Kirkpatrick. His research has been recognized by the UCSD CSE Doctoral Award for Excellence in Research, KAUST Rising Stars in AI, UChicago and UCSD Rising Stars in Data Science, ICASSP Rising Stars in Signal Processing, and UCSD GPSA Interdisciplinary Research Award.
   </div>
 </div>
 
