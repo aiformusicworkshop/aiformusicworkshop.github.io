@@ -139,6 +139,13 @@ TBD
 </div>
 
 <div class="row">
+  <a href="https://zacharynovack.github.io/"><img class="headshot" src="headshots/novack.jpg" alt="Zachary Novack"></a>
+  <div class="bio" markdown=1>
+  **[Zachary Novack](https://zacharynovack.github.io/)** is a PhD student in the Computer Science and Engineering department at the University of California San Diego, advised by Dr. Julian McAuley and Dr. Taylor Berg-Kirkpatrick. His research focuses on controllable and efficient music/audio generation, as well as audio reasoning in LLMs. His long-term goal is to design bespoke creative tools for musicians and everyday users alike with adaptive control and real-time interaction, collaborating with top industry labs such as Adobe Research, Stability AI, and Sony AI. Zachary's work has been recognized at numerous top-tier AI conferences, including DITTO (ICML 2024 Oral), *Presto!* (ICLR 2025 Spotlight), CoLLAP (ICASSP 2025 Oral). Outside of academia, Zachary is active within the southern California marching arts community, working as an educator for the 11-time world class finalist percussion ensemble POW Percussion.
+  </div>
+</div>
+
+<div class="row">
   <a href="https://yhlu.net/"><img class="headshot" src="headshots/lu.jpg" alt="Yung-Hsiang Lu"></a>
   <div class="bio" markdown=1>
   **[Yung-Hsiang Lu](https://yhlu.net/)** is a Professor in the Elmore Family School of Electrical and Computer Engineering at Purdue University. He is a fellow of the IEEE and a distinguished scientist of the ACM. Yung-Hsiang has published papers on computer vision and machine learning in venues such as AI Magazine, Nature Machine Learning, and Computer. He is one of the editors of the book "Low-Power Computer Vision: Improve the Efficiency of Artificial Intelligence" (ISBN 9780367744700, 2022 by Chapman & Hall).
@@ -152,10 +159,24 @@ TBD
   </div>
 </div>
 
+<div class="row">
+  <a href="https://www.linkedin.com/in/benjamin-chou-6aa058228/"><img class="headshot" src="headshots/chou.jpg" alt="Benjamin Shiue-Hal Chou"></a>
+  <div class="bio" markdown=1>
+  **[Benjamin Shiue-Hal Chou](https://www.linkedin.com/in/benjamin-chou-6aa058228/)** is a PhD student in Electrical and Computer Engineering at Purdue University, advised by Dr. Yung-Hsiang Lu. His research focuses on music performance error detection and the design of multimodal architectures. He is the lead author of Detecting Music Performance Errors with Transformers (AAAI 2025) and a co-author of Token Turing Machines are Efficient Vision Models (WACV 2025). Benjamin is the graduate mentor for the Purdue AIM (AI for Musicians) group and has helped organize the Artificial Intelligence for Music workshop at both AAAI 2025 and ICME 2025. He is currently interning at Reality Defender, where he works on audio deepfake detection.
+  </div>
+</div>
+
+<div class="row">
+  <a href="https://www.linkedin.com/in/mollyjones101/"><img class="headshot" src="headshots/jones.jpg" alt="Molly Jones"></a>
+  <div class="bio" markdown=1>
+  **[Molly Jones](https://www.linkedin.com/in/mollyjones101/)** is a PhD student in Performance Arts Technology at the University of Michigan. Her practice incorporates improvisation, composition, and multimedia performance with saxophones, flutes, found sounds, laptop, words, and video. Her work originates in a place of playfulness, listening, and attention. She performs/has performed in free jazz, new music, Balkan brass, spoken word, Scottish country dance, and electroacoustic ensembles in Chicago and Detroit while building a parallel career as a data engineer. Molly's research focuses on building, adapting, and training audio-generating neural networks ethically for use in compositions and other musical applications. She is the founder of Chicago Creative Machines, a lecture/performance series promoting the work of artists creating with original machine learning tools, and a curator at Elastic Arts in Chicago.
+  </div>
+</div>
+
 ---
 
 ## 🔄 Previous Iterations {#iterations}
 
 - [AAAI 2025](https://ai4musicians.org/2025aaai.html)
 - [ICME 2025](https://ai4musicians.org/2025icme.html)
-- [NeurIPS 2025](https://aiformusicworkshop.github.io/)
+- [NeurIPS 2025](https://aiformusicworkshop.github.io/neurips2025)
