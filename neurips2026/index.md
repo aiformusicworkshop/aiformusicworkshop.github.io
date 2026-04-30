@@ -108,7 +108,7 @@ Topics of interest include, but not limited to:
 | 8:10  - 8:40  | **Invited Talk** by TBD                      |
 | 8:40  - 9:10  | **Invited Talk** by TBD                      |
 | 9:10  - 10:30 | ☕Coffee Break + **Posters & Demos I**       |
-| 10:30 - 11:00 | **Oral Presentations**                       |
+| 10:30 - 11:00 | **Lightning Talks**                          |
 | 11:00 - 11:30 | **Invited Talk** by TBD                      |
 | 11:30 - 12:00 | **Invited Talk** by TBD                      |
 | 12:00 - 1:00  | 🍴Lunch Break                                |

@@ -5,3 +5,7 @@
 .accent2 {
   color: #951f34;
 }
+
+.schedule tr:nth-child(4), .schedule tr:nth-child(8), .schedule tr:nth-child(12) {
+  background-color: #eee;
+}
