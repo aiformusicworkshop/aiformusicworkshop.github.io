@@ -60,9 +60,9 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
 
 The following due dates apply to both paper and demo submissions:
 
-- **Submission Deadline:**{:.accent} **April 24, AoE**{:.red}
-- Author Notification Date: May 15, AoE
-- Camera-ready Due: November 7, AoE
+- **Submission Deadline:**{:.accent} **August 29, AoE**{:.red}
+- Author Notification Date: September 29, AoE
+- Camera-ready Due: November 14, AoE
 
 ### Topics of Interest
 
@@ -103,21 +103,21 @@ Topics of interest include, but not limited to:
 <div class="table-wrapper schedule" markdown="block">
 
 |||
-|:-:|--|
-| 8:00  - 8:10  | Opening Remarks                              |
-| 8:10  - 8:40  | **Invited Talk** by TBD                      |
-| 8:40  - 9:10  | **Invited Talk** by TBD                      |
-| 9:10  - 10:30 | ☕Coffee Break + **Posters & Demos I**       |
-| 10:30 - 11:00 | **Lightning Talks**                          |
-| 11:00 - 11:30 | **Invited Talk** by TBD                      |
-| 11:30 - 12:00 | **Invited Talk** by TBD                      |
-| 12:00 - 1:00  | 🍴Lunch Break                                |
-| 1:00  - 1:30  | **Oral Presentations**                       |
-| 1:30  - 2:00  | **Invited Talk** by TBD                      |
-| 2:00  - 2:30  | **Invited Talk** by TBD                      |
-| 2:30  - 3:50  | ☕Coffee Break + **Posters & Demos II**      |
-| 3:50  - 4:50  | **Panel Discussion** (with invited speakers) |
-| 4:50  - 5:00  | Closing Remarks                              |
+|:-:|-|
+| 8:00  - 8:10  | Opening Remarks                                                           |
+| 8:10  - 8:40  | **Invited Talk** by [Lamtharn (Hanoi) Hantrakul](https://yaboihanoi.com/) |
+| 8:40  - 9:10  | **Invited Talk** by [Nao Tokui](https://naotokui.net/)                    |
+| 9:10  - 10:30 | ☕Coffee Break + **Posters & Demos I**                                    |
+| 10:30 - 11:00 | **Lightning Talks**                                                       |
+| 11:00 - 11:30 | **Invited Talk** by TBD                                                   |
+| 11:30 - 12:00 | **Invited Talk** by TBD                                                   |
+| 12:00 - 1:00  | 🍴Lunch Break                                                             |
+| 1:00  - 1:30  | **Oral Presentations**                                                    |
+| 1:30  - 2:00  | **Invited Talk** by TBD                                                   |
+| 2:00  - 2:30  | **Invited Talk** by TBD                                                   |
+| 2:30  - 3:50  | ☕Coffee Break + **Posters & Demos II**                                   |
+| 3:50  - 4:50  | **Panel Discussion** (with invited speakers)                              |
+| 4:50  - 5:00  | Closing Remarks                                                           |
 
 </div>
 
@@ -125,7 +125,19 @@ Topics of interest include, but not limited to:
 
 ## 💡 Invited Speakers {#speakers}
 
-TBD
+<div class="row">
+  <a href="https://naotokui.net/"><img class="headshot" src="headshots/tokui.jpg" alt="Nao Tokui"></a>
+  <div class="bio" markdown=1>
+  [Nao Tokui](https://naotokui.net/) is an artist/DJ and researcher based in Tokyo. While pursuing his Ph.D. at The University of Tokyo, he produced music using AI, including his debut album and a collaboration with Nujabes, the late legendary Japanese hip-hop producer. His work was released by various labels in Japan and Europe. After completing his Ph.D. research, he founded Qosmo, AI Creativity and Music Lab, in 2009. Since then, he has been actively working at the intersection of AI technology and art. Nao and his team's works have been exhibited at renowned venues such as the New York MoMA and the Barbican Centre in London. Their performances have also been showcased at various music festivals, including MUTEK and Sonar. Additionally, he is leading the development of AI-based music instruments at his newly founded company, Neutone. In 2021, Nao received the Okawa Publishing Award for his Japanese book on art, creativity, and AI. The book was translated and published in English as "Surfing human creativity with AI — A user's guide" in 2023.
+  </div>
+</div>
+
+<div class="row">
+  <a href="https://yaboihanoi.com/"><img class="headshot" src="headshots/hanoi.jpg" alt="Lamtharn (Hanoi) Hantrakul"></a>
+  <div class="bio" markdown=1>
+  [Lamtharn (Hanoi) Hantrakul](https://yaboihanoi.com/) a.k.a "ญาบอยฮานอย yaboihanoi" is a Composer and Creative Director challenging Southeast Asian traditions through a ground-breaking synthesis of electronic music, machine learning technology and mixed-media reimaginations of Thai culture. Across sound, dance and projection design, his solo and collaborative projects collapse and remould boundaries between the traditional and modern, the young and old. Lamtharn leverages his unique career as both a programmer (ex-Google/ByteDance/TikTok) and artist to create experiences which empower the melodies, soundscapes, rhythms, rituals and dance movements of his region. He is the winner of the AI Song Contest 2022 and recently performed on the stages of SONAR Music Festival 2025 in Barcelona and the official Thailand ICONSIAM New Year 2025/26 Countdown in Bangkok. His work has been covered by international media including WIRED, Scientific American and Deutschlandfunk.
+  </div>
+</div>
 
 ---
 
