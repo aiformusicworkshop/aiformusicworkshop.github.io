@@ -64,30 +64,25 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
 
 ### Important Dates
 
-The following due dates apply to both paper and demo submissions:
-
 - **Submission Deadline:**{:.accent} **August 29, AoE**{:.red}
 - Author Notification Date: September 29, AoE
 - Camera-ready Due: November 14, AoE
 
-### Topics of Interest
-
-Topics of interest include, but not limited to:
+### Topics of Interest *(non-exhaustive)*{:.normal}
 
 - **Applications of AI in music**
-  - Music theory & musicology
+  - Music theory and musicology
   - Optical music recognition
   - Music transcription
+  - Music information retrieval
+  - Music understanding
   - Music generation
-  - Sound design & soundtrack generation
+  - Sound design and soundtrack generation
   - Singing voice synthesis
   - Lyric generation and translation
-  - Musical instrument design
-  - Robotic musicianship
-  - Human-AI music co-creativity
+  - Training data attribution
   - Music production
   - Music performance modeling
-  - Music information retrieval
   - Music recommender systems
   - Music education
   - Music therapy
@@ -100,6 +95,13 @@ Topics of interest include, but not limited to:
   - Ethical, legal & societal implications of AI music
   - Challenges in commercializing AI music tools
   - Emerging opportunities of AI music
+  {:.two-column}
+- **AI-integrated creative practices for music**
+  - AI-integrated music performances
+  - AI-integrated music installations
+  - Human-AI music co-creativity
+  - Musical instrument design
+  - Robotic musicianship
   {:.two-column}
 
 ---
