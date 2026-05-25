@@ -117,7 +117,7 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
 | 8:40  - 9:10  | **Invited Talk** by [Nao Tokui](https://naotokui.net/)                    |
 | 9:10  - 10:30 | ☕Coffee Break + **Posters & Demos I**                                    |
 | 10:30 - 11:00 | **Lightning Talks**                                                       |
-| 11:00 - 11:30 | **Invited Talk** by TBD                                                   |
+| 11:00 - 11:30 | **Invited Talk** by [Charles Martin](https://charlesmartin.au/)           |
 | 11:30 - 12:00 | **Invited Talk** by TBD                                                   |
 | 12:00 - 1:00  | 🍴Lunch Break                                                             |
 | 1:00  - 1:30  | **Oral Presentations**                                                    |
@@ -146,6 +146,15 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
   [Lamtharn (Hanoi) Hantrakul](https://yaboihanoi.com/) a.k.a "ญาบอยฮานอย yaboihanoi" is a Composer and Creative Director challenging Southeast Asian traditions through a ground-breaking synthesis of electronic music, machine learning technology and mixed-media reimaginations of Thai culture. Across sound, dance and projection design, his solo and collaborative projects collapse and remould boundaries between the traditional and modern, the young and old. Lamtharn leverages his unique career as both a programmer (ex-Google/ByteDance/TikTok) and artist to create experiences which empower the melodies, soundscapes, rhythms, rituals and dance movements of his region. He is the winner of the AI Song Contest 2022 and recently performed on the stages of SONAR Music Festival 2025 in Barcelona and the official Thailand ICONSIAM New Year 2025/26 Countdown in Bangkok. His work has been covered by international media including WIRED, Scientific American and Deutschlandfunk.
   </div>
 </div>
+
+<div class="row">
+  <a href="https://charlesmartin.au/"><img class="headshot" src="headshots/martin.jpg" alt="Charles Martin"></a>
+  <div class="bio" markdown=1>
+  [Charles Martin](https://charlesmartin.au/) is a Senior Lecturer and Interim Associate Director Education in the School of Computing at the Australian National University, where he leads the Sound, Music, and Creative Computing Lab. His research and creative practice sit at the intersection of musical AI, human–computer interaction, and creative computing. Music is Charles’ laboratory for studying real-time, embodied human-AI collaboration. Charles designs intelligent musical instruments, including the open-source IMPSY platform, publishes in venues such as CHI, ICML and NIME, and maintains an active performance practice as a computer musician.
+  </div>
+</div>
+
+
 
 ---
 
