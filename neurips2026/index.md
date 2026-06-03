@@ -118,7 +118,7 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
 | 9:10  - 10:30 | ☕Coffee Break + **Posters & Demos I**                                    |
 | 10:30 - 11:00 | **Lightning Talks**                                                       |
 | 11:00 - 11:30 | **Invited Talk** by [Charles Martin](https://charlesmartin.au/)           |
-| 11:30 - 12:00 | **Invited Talk** by TBD                                                   |
+| 11:30 - 12:00 | **Invited Talk** by [Annie Hsieh](https://www.anniehuihsinhsieh.com/)     |
 | 12:00 - 1:00  | 🍴Lunch Break                                                             |
 | 1:00  - 1:30  | **Oral Presentations**                                                    |
 | 1:30  - 2:00  | **Invited Talk** by TBD                                                   |
@@ -131,7 +131,7 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
 
 ---
 
-## 💡 Invited Speakers {#speakers}
+## 💡 Invited Speakers (*Confirmed*) {#speakers}
 
 <div class="row">
   <a href="https://naotokui.net/"><img class="headshot" src="headshots/tokui.jpg" alt="Nao Tokui"></a>
@@ -154,7 +154,12 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
   </div>
 </div>
 
-
+<div class="row">
+  <a href="https://www.anniehuihsinhsieh.com/"><img class="headshot" src="headshots/hsieh.jpg" alt="Annie Hsieh"></a>
+  <div class="bio" markdown=1>
+  [Annie Hsieh](https://www.anniehuihsinhsieh.com/) is a Taiwanese-Australian composer working in acoustic and electroacoustic mediums. Her work focuses on creating visceral physical experiences and articulates sonic expressions in terms of spatial gestures and relational sociality. She has been a recipient of several awards and honors such as the 2017 APRA (Australian Performance Rights Association) Art Music Fund, the Monash University International Women’s Day Composition Commission, the Belegura Composer Award as part of the Melbourne Prize 2022, the 2023 the Monash Performance Art Centre David Li Sound Gallery Commission. She has been supported by grants from New Music USA, the Tomayko Foundation, Australian Cultural Fund, Creative Australia grants, the National Cultural and Arts Foundation (Taiwan), and is a recent recipient of the Schmidt Sciences AI and Humanities Virtual Institute grant (HAVI). She is currently an Associate Professor of Electronic Music and Composition at Carnegie Mellon University.
+  </div>
+</div>
 
 ---
 
@@ -201,6 +206,14 @@ We call for demos of novel AI music tools and artistic work. Each demo submissio
   **[Molly Jones](https://www.linkedin.com/in/mollyjones101/)** is a PhD student in Performance Arts Technology at the University of Michigan. Her practice incorporates improvisation, composition, and multimedia performance with saxophones, flutes, found sounds, laptop, words, and video. Her work originates in a place of playfulness, listening, and attention. She performs/has performed in free jazz, new music, Balkan brass, spoken word, Scottish country dance, and electroacoustic ensembles in Chicago and Detroit while building a parallel career as a data engineer. Molly's research focuses on building, adapting, and training audio-generating neural networks ethically for use in compositions and other musical applications. She is the founder of Chicago Creative Machines, a lecture/performance series promoting the work of artists creating with original machine learning tools, and a curator at Elastic Arts in Chicago.
   </div>
 </div>
+
+---
+
+## 🔍 Program Committee (*Confirmed*) {#committee}
+
+(In alphabetical order)
+
+Julia Barnett, Luca Bindini, Kaj Bostrom, Yunkee Chae, Ke Chen, Manuel Cherep, Joann Ching, Eunjin Choi, Woosung Choi, Benjamin Shiue-Hal Chou, Annie Chu, Seungheon Doh, Chris Donahue, Hao-Wen Dong, Shlomo Dubnov , Timothy Greer, Florian Grötschla, Jiarui Hai, Jingyue Huang, Tatsuro Inaba, Purvish Jajal, Dasaem Jeong, Molly Jones, Kexin Phyllis Ju, Tornike Karchkhadze, Yonghyun Kim, Jinju Kim, Shinae Kim, Junyoung Koh, Luca Lanzendörfer, Junwon Lee, Wei-Jaw Lee, Jongpil Lee, Bochen Li, Jia-Wei Liao, Duoduo Liao, Yung-Hsiang Lu, Ilaria Manco, Jiawen Mao, Oriol Nieto, Stephen Ni-Hahn , Seungryeol Paik, Sherry Ruan, Rebecca Salganik, Sridharan Sankaran, Nikhil Singh, Junnuo Wang, Ziyu Wang, Shih-Lun Wu, Xin Xu, Weihan Xu, Chao Peter Yang, Guang Yang, Yen-Tung Yeh, Chin-Yun Yu, Kristen Yeon-Ji Yun, Yixiao Zhang, Jingwei Zhao, Ge Zhu
 
 ---
 
